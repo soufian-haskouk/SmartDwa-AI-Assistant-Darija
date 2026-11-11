@@ -1,0 +1,15 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations déconseillées
++ Halotane
+En cas d'intervention obstétricale, majoration de l'inertie utérine avec risque hémorragique ; par ailleurs, troubles du rythme ventriculaires graves, par augmentation de la réactivité cardiaque.
+Interrompre le traitement par bêta-2 mimétiques si l'anesthésie doit se faire sous halothane.
+Associations faisant l’objet de précautions d’emploi
++ Insuline
+Elévation de la glycémie par le bêta-2 mimétique. Renforcer la surveillance sanguine et urinaire.
++ Sulfamides hypoglycémiants
+Elévation de la glycémie par le bêta-2 mimétique. Renforcer la surveillance sanguine et urinaire. Passer éventuellement à l'insuline, le cas échéant.
+Associations à prendre en compte
+Le propranolol et les autres agents bloquants des récepteurs β-adrénergiques non-cardioselectifs antagonisent les effets du salbutamol, et ne devraient pas être prescrits de manière concomitante.
+Les inhibiteurs de MAO, les antidépresseurs tricycliques, la digoxine : risque d’effets cardiovasculaires augmentés.
+Les patients doivent être informés de cesser salbutamol au moins 6 heures avant une anesthésie programmée avec des anesthésiques halogénés, autant que possible
+Une hypokaliémie survenant avec des ß2-mimétiques peut être exacerbée par un traitement avec les dérivés xanthiques, des stéroïdes, des diurétiques et des laxatifs sur le long terme.

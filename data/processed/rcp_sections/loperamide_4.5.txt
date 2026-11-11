@@ -1,0 +1,23 @@
+4.5. Interactions avec d'autres médicaments et autres
+formes d'interactions
+L’administration concomitante de lopéramide (dose unique de 4 mg) et
+d’itraconazole, un inhibiteur du CYP 3A4 et de la glycoprotéine P, a
+entraîné une augmentation des concentrations plasmatiques de
+lopéramide d’un facteur 3 à 4. Dans la même étude, le gemfibrozil, un
+inhibiteur du CYP 2C8 a augmenté les concentrations en lopéramide d’un
+facteur 2. L’association de l’itraconazole et du gemfibrozil a entraîné une
+augmentation des pics de concentrations plasmatiques de lopéramide
+d’un facteur 4 et une augmentation de l’exposition plasmatique totale
+d’un facteur 13. Ces augmentations n’ont pas été associées à des effets
+sur le système nerveux central lors de tests psychomoteurs (somnolence
+subjective et Digit Symbol Substitution Test).
+L’administration concomitante de lopéramide (dose unique de 16 mg) et
+de kétoconazole, un inhibiteur du CYP 3A4 et de la glycoprotéine P, a
+entraîné une augmentation des concentrations plasmatiques de
+lopéramide d’un facteur 5. Cette augmentation n’a pas été associée à une
+augmentation des effets pharmacodynamiques lors de mesures par
+pupillométrie.
+
+L’association avec la desmopressine orale a entrainé une augmentation
+des concentrations plasmatiques de desmopressine d’un facteur 3, sans
+doute due au ralentissement de la motilité intestinale.

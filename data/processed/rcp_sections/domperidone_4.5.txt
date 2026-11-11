@@ -1,0 +1,31 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Si des médicaments antiacides ou antisécrétoires sont également prescrits, ils ne doivent pas être pris en même temps que DOMPERIDONE ARROW (dompéridone base). Ainsi, ils devront être pris après le repas et non avant.
+Association avec la lévodopa
+Bien qu’un ajustement posologique de la lévodopa ne soit pas jugé nécessaire, une augmentation de la concentration plasmatique (de 30 à 40 % maximum) a été observée lorsque la dompéridone est prise de façon concomitante à la lévodopa.
+La voie métabolique principale de la dompéridone implique le CYP3A4. Les données in vitro suggèrent que l’administration concomitante de médicaments qui inhibent le CYP3A4 de façon importante peut entraîner l’augmentation des concentrations plasmatiques de dompéridone.
+Risque accru d’allongement de l’intervalle QT en raison d’interactions pharmacodynamiques et/ou pharmacocinétiques.
+Associations contre-indiquées
+Médicaments qui allongent l'intervalle QTc (risque de torsades de pointes) :
+· antiarythmiques de classe IA (par exemple disopyramide, hydroquinidine, quinidine) ;
+· antiarythmiques de classe III (par exemple amiodarone, dofétilide, dronédarone, ibutilide, sotalol) ;
+· certains antipsychotiques (par exemple halopéridol, pimozide, sertindole) ;
+· certains antidépresseurs (par exemple citalopram, escitalopram) ;
+· certains antibiotiques (par exemple érythromycine, lévofloxacine, moxifloxacine, spiramycine) ;
+· certains antifongiques (par exemple fluconazole, pentamidine) ;
+· certains antipaludéens (en particulier halofantrine, luméfantrine) ;
+· certains médicaments à visée digestive (par exemple cisapride, dolasétron, prucalopride) ;
+· certains antihistaminiques (par exemple méquitazine, mizolastine) ;
+· certains anticancéreux (par exemple torémifène, vandétanib, vincamine) ;
+· certains autres médicaments (par exemple bépridil, diphémanil, méthadone) ;
+· apomorphine, sauf si le bénéfice de l’administration concomitante est supérieur aux risques, et uniquement si les précautions recommandées pour l’administration concomitante sont strictement respectées. Veuillez-vous reporter au RCP de l’apomorphine. 
+(voir rubrique 4.3).
+Inhibiteurs puissants du CYP3A4 (quels que soient leurs effets d'allongement de l'intervalle QT), c’est-à-dire :
+· anti-protéases (par exemple ritonavir, saquinavir et télaprévir) ;
+· antifongiques azolés systémiques (par exemple itraconazole, kétoconazole, posaconazole, voriconazole) ;
+· certains antibiotiques de la classe des macrolides (par exemple, clarithromycine et télithromycine).
+(voir rubrique 4.3).
+Associations déconseillées
+Inhibiteurs modérés du CYP3A4, c’est-à-dire diltiazem, vérapamil et certains macrolides.
+Associations faisant l’objet de précautions d'emploi
+La prudence est de rigueur avec les médicaments qui induisent une bradycardie et une hypokaliémie ainsi qu’avec les macrolides suivants, qui allongent l'intervalle QT : azithromycine et roxithromycine (la clarithromycine est contre-indiquée car elle est un inhibiteur puissant du CYP3A4).
+La liste de substances citées ci-dessus est représentative et non exhaustive.

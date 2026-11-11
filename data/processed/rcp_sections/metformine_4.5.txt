@@ -1,0 +1,20 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations déconseillées
++ Alcool
+Une intoxication alcoolique aigüe est associée à un risque élevé d’acidose lactique, en particulier en cas de jeûne, de malnutrition ou d’insuffisance hépatique.
++ Produits de contraste iodés
+Le chlorhydrate de metformine doit être interrompu préalablement au test et ne doit pas être repris avant au moins 48 heures ensuite, et uniquement après une réévaluation de la fonction rénale jugée non détériorée davantage (voir rubrique 4.4).
+Associations faisant l'objet de précautions d’emploi
+Certains médicaments peuvent avoir un effet indésirable sur la fonction rénale, ce qui peut augmenter le risque d’acidose lactique, p ex. les AINS, y compris les inhibiteurs sélectifs de la cyclo-oxygénase (COX), les inhibiteurs de l'ECA, les antagonistes du récepteur de l’angiotensine II et les diurétiques, en particulier les diurétiques de l'anse. Lors de l’initiation ou l’utilisation de ces produits en combinaison avec la metformine, un suivi étroit de la fonction rénale est nécessaire.
++ Médicaments avec une activité hyperglycémique intrinsèque (par ex, les glucocorticoïdes (en utilisation locale ou par voie systémique) et les sympathomimétiques)
+Un suivi plus fréquent de la glycémie peut être nécessaire, en particulier en début de traitement. Si nécessaire, le dosage de la metformine doit être ajusté durant le traitement avec les médicaments respectifs et à son interruption.
++ Diurétiques, en particulier diurétiques de l'anse
+Ils peuvent augmenter le risque d’acidose lactique en raison de leur potentiel à diminuer la fonction rénale. 
++ Les transporteurs de cations organiques (TCO)
+La metformine est un substrat des transporteurs TCO1 et TCO2.
+Une coadministration de la metformine avec
+· Les inhibiteurs de TCO1 (tels que le verapamil) peut réduire l’efficacité de la metformine.
+· Les inducteurs de TCO1 (tels que la rifampicine) peut augmenter l’absorption gastro-intestinale et l’efficacité de la metformine. 
+· Les inhibiteurs de TCO2 (tels que la cimétidine, le dolutegravir, la ranolazine, le triméthoprime, le vandetanib, l'isavuconazole) peut diminuer l’élimination rénale de la metformine et donc augmenter la concentration plasmatique en metformine.
+· Les inhibiteurs de TCO1 et de TCO2 (tels que le crizotinib, l'olaparib) peut altérer l'efficacité et l'élimination rénale de la metformine.
+La prudence est donc recommandée, surtout chez les patients atteints d'insuffisance rénale, lorsque ces médicaments sont co-administrés avec la metformine, car la concentration plasmatique de la metformine peut augmenter. Si nécessaire, un ajustement posologique de la metformine peut être envisagé, car les inhibiteurs/inducteurs des TCO peuvent altérer l'efficacité de la metformine.

@@ -1,0 +1,11 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Probénécide
+L’utilisation concomitante de probénécide n’est pas recommandée. Le probénécide diminue la sécrétion tubulaire rénale de l’amoxicilline. L’utilisation concomitante de probénécide peut conduire à une augmentation prolongée de la concentration sanguine d’amoxicilline.
+Allopurinol
+L’administration concomitante d’allopurinol lors d’un traitement avec de l’amoxicilline peut augmenter la probabilité de réactions cutanées allergiques.
+Tétracyclines
+Les tétracyclines et d’autres médicaments bactériostatiques peuvent interférer avec les effets bactéricides de l’amoxicilline.
+Anticoagulants oraux
+Les anticoagulants oraux sont souvent administrés de façon concomitante avec des antibiotiques de la famille des pénicillines et aucune interaction n’a été signalée. Toutefois, des cas d’augmentation de l’INR ont été rapportés dans la littérature chez des patients maintenus sous acénocoumarol ou warfarine pendant l’administration d’amoxicilline. Si une co-administration est nécessaire, le temps de Quick ou l’INR lors de l’ajout ou du retrait d’amoxicilline doit être étroitement surveillé. En outre, une adaptation posologique des anticoagulants oraux peut être nécessaire (voir rubriques 4.4 et 4.8).
+Méthotrexate
+Les pénicillines peuvent réduire l’excrétion du méthotrexate et augmenter ainsi sa toxicité.

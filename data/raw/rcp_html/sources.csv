@@ -1,0 +1,17 @@
+stem,file,product,note
+paracetamol,paracetamol.html,"DOLIPRANE 1000 mg, comprimé (CIS 60234100)",
+ibuprofene,ibuprofene.html,"ADVIL 200 mg, comprimé enrobé (CIS 68634000)",
+diclofenac,diclofenac.html,"DICLOFENAC ARROW 50 mg, comprimé gastro-résistant (CIS 67411717)",
+omeprazole,omeprazole.html,"MOPRAL 20 mg, gélule gastro-résistante (CIS 64103828)",
+domperidone,domperidone.html,"DOMPERIDONE ARROW 10 mg, comprimé orodispersible (CIS 62128302)",
+amoxicilline,amoxicilline.html,"AMOXICILLINE ALMUS 1 g, comprimé dispersible (CIS 60151544)",
+clarithromycine,clarithromycine.html,"CLARITHROMYCINE ACCORD 250 mg, comprimé pelliculé (CIS 68356362)",
+metformine,metformine.html,"GLIMEZIT 1000 mg, comprimé effervescent (CIS 63806909)",marque; contient uniquement metformine (ATC A10BA02)
+amlodipine,amlodipine.html,"AMLODIPINE ALMUS 10 mg, gélule (CIS 69622809)",
+bisoprolol,bisoprolol.html,"BISOPROLOL BIOGARAN 10 mg, comprimé pelliculé sécable (CIS 67736575)",
+atorvastatine,atorvastatine.html,"ATORVASTATINE ALMUS PHARMA 10 mg, comprimé pelliculé (CIS 60519117)",
+furosemide,furosemide.html,"FUROSEMIDE ARROW 20 mg, comprimé sécable (CIS 68009803)",
+salbutamol,salbutamol.html,"AIROMIR AUTOHALER 100 microgrammes/dose, suspension pour inhalation (CIS 66086181)",forme inhalée: l'RCP peut différer des formes orales
+loratadine,loratadine.html,"HUMEX ALLERGIE LORATADINE 10 mg, comprimé (CIS 68728738)",
+cetirizine,cetirizine.html,"REACTINE 10 mg, comprimé pelliculé sécable (CIS 64939766)",
+prednisolone,prednisolone.html,"HYDROCORTANCYL 2,5 POUR CENT, suspension injectable (CIS 66330098)",acétate de prednisolone injectable: l'RCP diffère des formes orales

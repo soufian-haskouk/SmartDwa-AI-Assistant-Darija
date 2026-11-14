@@ -1,0 +1,4 @@
+data/raw/medqa_ma
+models
+**/__pycache__
+.git

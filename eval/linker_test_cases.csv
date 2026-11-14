@@ -1,0 +1,63 @@
+﻿id,kind,text,expected,actionable,any_in_scope,exact_actionable,exact_lenient,wrong_actionable,needs_confirmation,hits
+L01,latin_brand,doliprane,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,doliprane->PARACETAMOL(high)
+L02,latin_brand,dolipran 1000,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,dolipran->PARACETAMOL(medium)
+L03,latin_typo,dolyprane,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,dolyprane->PARACETAMOL(medium)
+L04,latin_brand,Brufen 400,IBUPROFENE,IBUPROFENE,IBUPROFENE,True,True,0,False,Brufen->IBUPROFENE(high)
+L05,latin_typo,brufenn,IBUPROFENE,IBUPROFENE,IBUPROFENE,True,True,0,False,brufenn->IBUPROFENE(medium)
+L06,latin_brand,augmentin,AMOXICILLINE,AMOXICILLINE,AMOXICILLINE,True,True,0,False,augmentin->AMOXICILLINE(high)
+L07,latin_typo,agmentin,AMOXICILLINE,AMOXICILLINE,AMOXICILLINE,True,True,0,False,agmentin->AMOXICILLINE(medium)
+L08,latin_brand,glucophage 850,METFORMINE,METFORMINE,METFORMINE,True,True,0,False,glucophage->METFORMINE(high)
+L09,latin_typo,gloucophage,METFORMINE,METFORMINE,METFORMINE,True,True,0,False,gloucophage->METFORMINE(medium)
+L10,latin_typo,voltaren,DICLOFENAC,,DICLOFENAC,False,True,0,True,voltaren->DICLOFENAC(low)
+L11,latin_brand,cataflam,DICLOFENAC,DICLOFENAC,DICLOFENAC,True,True,0,False,cataflam->DICLOFENAC(high)
+L12,latin_typo,ventolin,SALBUTAMOL,,SALBUTAMOL,False,True,0,True,ventolin->SALBUTAMOL(low)
+L13,latin_typo,soluprd,PREDNISOLONE,PREDNISOLONE,PREDNISOLONE,True,True,0,False,soluprd->PREDNISOLONE(medium)
+L14,latin_brand,zyrtec,CETIRIZINE,CETIRIZINE,CETIRIZINE,True,True,0,False,zyrtec->CETIRIZINE(high)
+L15,latin_brand,mopral,OMEPRAZOLE,OMEPRAZOLE,OMEPRAZOLE,True,True,0,False,mopral->OMEPRAZOLE(high)
+L16,latin_brand,zithromax,AZITHROMYCINE,AZITHROMYCINE,AZITHROMYCINE,True,True,0,False,zithromax->AZITHROMYCIN(high)
+L17,latin_brand,aspegic,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,True,True,0,False,aspegic->ACIDE ACETYL(high)
+L18,latin_typo,asprin,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,True,True,0,False,asprin->ACIDE ACETYL(medium)
+L19,latin_brand,amlor,AMLODIPINE,,AMLODIPINE,False,True,0,True,"amlor->AMLODIPINE(high,amb)"
+L20,latin_dci,ibuprofene,IBUPROFENE,IBUPROFENE,IBUPROFENE,True,True,0,False,ibuprofene->IBUPROFENE(high)
+A01,arabic,دوليبران,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,دوليبران->PARACETAMOL(medium)
+A02,arabic,الدوليبران,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,الدوليبران->PARACETAMOL(medium)
+A03,arabic,باراسيتامول,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,باراسيتامول->PARACETAMOL(high)
+A04,arabic,بروفين,IBUPROFENE,IBUPROFENE,IBUPROFENE,True,True,0,False,بروفين->IBUPROFENE(high)
+A05,arabic,اوجمنتين,AMOXICILLINE,,AMOXICILLINE,False,True,0,True,اوجمنتين->AMOXICILLINE(low)
+A06,arabic,الاموكسيسيلين,AMOXICILLINE,AMOXICILLINE,AMOXICILLINE,True,True,0,False,الاموكسيسيلين->AMOXICILLINE(high)
+A07,arabic,ميتفورمين,METFORMINE,METFORMINE,METFORMINE,True,True,0,False,ميتفورمين->METFORMINE(high)
+A08,arabic,كليكوفاج,METFORMINE,,METFORMINE,False,True,0,True,كليكوفاج->METFORMINE(low)
+A09,arabic,فولتارين,DICLOFENAC,,DICLOFENAC,False,True,0,True,فولتارين->DICLOFENAC(low)
+A10,arabic,فنتولين,SALBUTAMOL,,SALBUTAMOL,False,True,0,True,فنتولين->SALBUTAMOL(low)
+A11,arabic,اسبرين,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE,True,True,0,False,اسبرين->ACIDE ACETYL(high)
+A12,arabic,ديكلوفيناك,DICLOFENAC,DICLOFENAC,DICLOFENAC,True,True,0,False,ديكلوفيناك->DICLOFENAC(high)
+A13,arabic,اوميبرازول,OMEPRAZOLE,OMEPRAZOLE,OMEPRAZOLE,True,True,0,False,اوميبرازول->OMEPRAZOLE(high)
+A14,arabic,سيتيريزين,CETIRIZINE,CETIRIZINE,CETIRIZINE,True,True,0,False,سيتيريزين->CETIRIZINE(high)
+A15,arabic,بريدنيزولون,PREDNISOLONE,PREDNISOLONE,PREDNISOLONE,True,True,0,False,بريدنيزولون->PREDNISOLONE(high)
+A16,arabic,فوروسيميد,FUROSEMIDE,FUROSEMIDE,FUROSEMIDE,True,True,0,False,فوروسيميد->FUROSEMIDE(high)
+Z01,arabizi,bruffen,IBUPROFENE,IBUPROFENE,IBUPROFENE,True,True,0,False,bruffen->IBUPROFENE(medium)
+Z02,arabizi,agmentine,AMOXICILLINE,AMOXICILLINE,AMOXICILLINE,True,True,0,False,agmentine->AMOXICILLINE(medium)
+Z03,arabizi,diclofinac,DICLOFENAC,DICLOFENAC,DICLOFENAC,True,True,0,False,diclofinac->DICLOFENAC(medium)
+Z04,arabizi,omeprazol,OMEPRAZOLE,OMEPRAZOLE,OMEPRAZOLE,True,True,0,False,omeprazol->OMEPRAZOLE(medium)
+Z05,arabizi,cetirizin,CETIRIZINE,CETIRIZINE,CETIRIZINE,True,True,0,False,cetirizin->CETIRIZINE(medium)
+Z06,arabizi,metphormin,METFORMINE,,METFORMINE,False,True,0,True,metphormin->METFORMINE(low)
+S01,sentence,واش نقدر ناخد الدوليبران مع الأوجمنتين؟,PARACETAMOL|AMOXICILLINE,PARACETAMOL,AMOXICILLINE|PARACETAMOL,False,True,0,True,الدوليبران->PARACETAMOL(medium) ; الأوجمنتين؟->AMOXICILLINE(low)
+S02,sentence,كنت كنستعمل ventoline وولا مزيان,SALBUTAMOL,SALBUTAMOL,SALBUTAMOL,True,True,0,False,ventoline->SALBUTAMOL(high)
+S03,sentence,شنو الفرق بين البروفين والدوليبران؟,IBUPROFENE|PARACETAMOL,IBUPROFENE|PARACETAMOL,IBUPROFENE|PARACETAMOL,True,True,0,False,البروفين->IBUPROFENE(high) ; والدوليبران؟->PARACETAMOL(medium)
+S04,sentence,bghit n3ref wach nakhod aspirine w ibuprofen f nafs lwa9t,ACIDE ACETYLSALICYLIQUE|IBUPROFENE,ACIDE ACETYLSALICYLIQUE|IBUPROFENE,ACIDE ACETYLSALICYLIQUE|IBUPROFENE,True,True,0,False,aspirine->ACIDE ACETYL(high) ; ibuprofen->IBUPROFENE(high)
+S05,sentence,كنت كنشرب الميتفورمين وعندي مشكل فالمعدة,METFORMINE,METFORMINE,METFORMINE,True,True,0,False,الميتفورمين->METFORMINE(high)
+S06,sentence,بنتي عندها السخانة و3ندي غير الباراسيتامول,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,الباراسيتامول->PARACETAMOL(high)
+S07,sentence,واش ممكن نخلط الأسبرين مع الكلاريتين؟,ACIDE ACETYLSALICYLIQUE|LORATADINE,ACIDE ACETYLSALICYLIQUE,ACIDE ACETYLSALICYLIQUE|LORATADINE,False,True,0,True,الأسبرين->ACIDE ACETYL(high) ; الكلاريتين؟->LORATADINE(low)
+S08,sentence,doliprane ou ibuprofene pour mal de tête?,PARACETAMOL|IBUPROFENE,IBUPROFENE|PARACETAMOL,IBUPROFENE|PARACETAMOL,True,True,0,False,doliprane->PARACETAMOL(high) ; ibuprofene->IBUPROFENE(high)
+S09,sentence,Quelle est la dose de Voltarène pour un adulte,DICLOFENAC,DICLOFENAC,DICLOFENAC,True,True,0,False,Voltarène->DICLOFENAC(high)
+S10,sentence,واش نقدر ناخد الباروكستين مع الدوليبران؟,PARACETAMOL,PARACETAMOL,PARACETAMOL,True,True,0,False,"الباروكستين->OUT:PAROXETI(low,amb,OUT) ; الدوليبران؟->PARACETAMOL(medium)"
+N01,negative,راسي كيضرني بزاف شنو ندير؟,,,,True,True,0,False,
+N02,negative,كيفاش نتعالج من الحمى؟,,,,True,True,0,False,
+N03,negative,واش الدواء ديال الضغط خاصو الماء؟,,,,True,True,0,False,
+N04,negative,نسيت نخد الدوا ديالي البارح,,,,True,True,0,False,
+N05,negative,عندي حساسية من البنسلين,,,,True,True,0,False,"البنسلين->OUT:BENZYLPE(low,OUT)"
+N06,negative,j'ai mal à la gorge depuis deux jours,,,,True,True,0,False,
+N07,negative,فين نلقى صيدلية قريبة؟,,,,True,True,0,False,
+N08,negative,شحال ثمن الكشف عند الطبيب,,,,True,True,0,False,
+N09,negative,كنحس بدوخة منين كنوقف,,,,True,True,0,False,
+N10,negative,عندي الجلدة كتحكني,,,,True,True,0,False,

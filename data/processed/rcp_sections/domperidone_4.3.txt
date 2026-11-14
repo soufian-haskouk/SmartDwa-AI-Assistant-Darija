@@ -1,0 +1,10 @@
+4.3. Contre-indications
+DOMPERIDONE ARROW est contre-indiqué dans les situations suivantes : 
+· hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1 ;
+· tumeur hypophysaire à prolactine (prolactinome) ;
+· lorsque la stimulation de la motricité gastrique peut s’avérer nocive, par exemple chez les patients présentant une hémorragie gastro-intestinale, une obstruction mécanique ou une perforation ; 
+· chez les patients atteints d’une insuffisance hépatique modérée ou sévère (voir rubrique 5.2) ;
+· chez les patients ayant un allongement connu des intervalles de conduction cardiaque, notamment de l’intervalle QTc, les patients présentant des troubles électrolytiques importants ou des maladies cardiaques sous-jacentes telles qu’une insuffisance cardiaque congestive (voir rubrique 4.4) ;
+· administration concomitante avec les médicaments qui allongent l’intervalle QT, à l’exception de l’apomorphine (voir les rubriques 4.4 et 4.5) ;
+· administration concomitante avec les inhibiteurs puissants du CYP3A4 (quels que soient leurs effets d’allongement de l’intervalle QT) (voir rubrique 4.5) ;
+· phéochromocytome confirmé ou suspecté en raison du risque d’épisodes d’hypertension sévères.

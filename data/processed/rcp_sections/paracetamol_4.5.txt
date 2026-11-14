@@ -1,0 +1,10 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions 
+Associations faisant l’objet de précautions d’emploi
++ Antivitamines K
+Risque d’augmentation de l’effet de l’antivitamine K et du risque hémorragique en cas de prise de paracétamol aux doses maximales (4 g/j) pendant au moins 4 jours. 
+Contrôle plus fréquent de l’INR. Adaptation éventuelle de la posologie de l’antivitamine K pendant le traitement par le paracétamol et après son arrêt.
++ Flucloxacilline
+Des précautions doivent être prises lorsque le paracétamol est utilisé en même temps que la flucloxacilline, car une prise concomitante a été associée à une acidose métabolique à trou anionique élevé due à une acidose pyroglutamique, en particulier chez les patients présentant des facteurs de risque (voir rubrique 4.4).
+Interactions avec les examens paracliniques
+La prise de paracétamol peut fausser le dosage de la glycémie par la méthode à la glucose oxydase‑peroxydase en cas de concentrations anormalement élevées. 
+La prise de paracétamol peut fausser le dosage de l’acide urique sanguin par la méthode à l’acide phosphotungstique.

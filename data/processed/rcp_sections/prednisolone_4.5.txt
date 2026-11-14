@@ -1,0 +1,46 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Les risques d'interactions des glucocorticoïdes avec d'autres médicaments sont exceptionnels par voie injectable locale dans les circonstances usuelles d'emploi. Ces risques seraient à considérer en cas d'injections multiples (plusieurs localisations) ou répétées à court terme.
+L'hypokaliémie est un facteur favorisant l'apparition de troubles du rythme cardiaque (torsades de pointes, notamment) et augmentant la toxicité de certains médicaments, par exemple la digoxine. De ce fait les médicaments qui peuvent entraîner une hypokaliémie sont impliqués dans un grand nombre d'interactions. Il s'agit des diurétiques hypokaliémiants, seuls ou associés, des laxatifs stimulants, des glucocorticoïdes, du tétracosactide et de l'amphotéricine B (voie IV).
+Associations contre-indiquées
++ Vaccins vivants atténués
+A l'exception des voies inhalées et locales, et pour des posologies supérieures à 10 mg/j d’équivalent-prednisone (ou > 2 mg/kg/j chez l’enfant ou > 20 mg/j chez l’enfant de plus de 10 kg) pendant plus de deux semaines et pour les « bolus » de corticoïdes : risque de maladie vaccinale généralisée éventuellement mortelle.
+Les vaccins vivants atténués sont contre-indiqués même pendant les 3 mois suivant l'arrêt de la corticothérapie.
+Associations déconseillées (voir rubrique 4.4)
++ Acide acétylsalicylique
+Majoration du risque hémorragique.
+Association déconseillée avec des doses anti-inflammatoires d'acide acétylsalicylique (≥ 1 g par prise et/ou ≥ 3 g par jour).
++ Inhibiteurs du CYP3A
+Il est prévu que l’administration concomitante d’inhibiteurs du CYP3A, y compris de produits contenant du cobicistat, augmente le risque d’effets secondaires systémiques. L’association doit être évitée, sauf si les bénéfices sont supérieurs au risque accru d’effets secondaires systémiques des corticostéroïdes ; dans ce cas, les patients doivent être surveillés en vue de détecter les éventuels effets secondaires systémiques des corticostéroïdes.
+Associations faisant l'objet de précautions d’emploi
++ Anticoagulants oraux
+Glucocorticoïdes (voies générale et rectale) : impact éventuel de la corticothérapie sur le métabolisme de l’antivitamine K et sur celui des facteurs de la coagulation. Risque hémorragique propre à la corticothérapie (muqueuse digestive, fragilité vasculaire) à fortes doses ou en traitement prolongé supérieur à 10 jours.
+Lorsque l’association est justifiée, renforcer la surveillance : le cas échéant, contrôle biologique au 8e jour, puis tous les 15 jours pendant la corticothérapie et après son arrêt.
++ Autres hypokaliémiants (diurétiques hypokaliémiants seuls ou associés, laxatifs stimulants, amphotéricine B par voie IV, tétracosactide)
+Risque majoré d'hypokaliémie. Surveillance de la kaliémie avec, si besoin, correction.
++ Anticonvulsivants inducteurs enzymatiques : carbamazépine, fosphénytoïne, phénobarbital, phénytoïne, primidone
+Diminution des concentrations plasmatiques et de l'efficacité des corticoïdes par augmentation de leur métabolisme hépatique par l'inducteur ; les conséquences sont particulièrement importantes chez les addisoniens traités par l'hydrocortisone et en cas de transplantation. Surveillance clinique et biologique ; adaptation de la posologie des corticoïdes pendant le traitement par l'inducteur et après son arrêt.
++ Digoxine
+Hypokaliémie favorisant les effets toxiques des digitaliques. Corriger auparavant toute hypokaliémie et réaliser une surveillance clinique, électrolytique et électrocardiographique.
++ Insuline, metformine, sulfamides hypoglycémiants
+Augmentation de la glycémie avec parfois acidocétose par diminution de la tolérance aux glucides due aux corticoïdes. Prévenir le patient et renforcer l'autosurveillance glycémique et urinaire, surtout en début de traitement. Adapter éventuellement la posologie de l'antidiabétique pendant le traitement par les corticoïdes et après son arrêt.
++ Isoniazide
+Décrit pour la prednisolone : diminution des concentrations plasmatiques de l'isoniazide. Mécanisme invoqué : augmentation du métabolisme hépatique de l'isoniazide et diminution de celui des glucocorticoïdes. Surveillance clinique et biologique.
++ Médicaments susceptibles de donner des torsades de pointes (voir associations déconseillées): antiarythmiques de classe Ia (quinidine, hydroquinidine, disopyramide) et antiarythmiques de classe III (amiodarone, sotalol, dofétilide, ibutilide), certains neuroleptiques (thioridazine, chlorpromazine, lévomépromazine, cyamémazine, sulpiride, sultopride, amisulpride, tiapride, pimozide, halopéridol, dropéridol, véralipride), bépridil, cisapride, diphémanil, érythromycine IV, halofantrine, luméfantrine, méthadone, mizolastine, moxifloxacine, pentamidine, spiramycine IV, vincamine IV).
+Risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes. Corriger auparavant toute hypokaliémie avant d'administrer le produit et réaliser une surveillance clinique, électrolytique et électrocardiographique.
++ Rifampicine
+Diminution des concentrations plasmatiques et de l'efficacité des corticoïdes par augmentation de leur métabolisme hépatique par la rifampicine ; les conséquences sont particulièrement importantes chez les addisoniens traités par l'hydrocortisone et en cas de transplantation. Surveillance clinique et biologique ; adaptation de la posologie des corticoïdes pendant le traitement par la rifampicine et après son arrêt.
++ Topiques gastro-intestinaux, antiacides et charbon (décrit pour la prednisolone, la dexaméthasone)
+Diminution de l'absorption digestive des glucocorticoïdes. Prendre les topiques gastro-intestinaux et antiacides à distance des glucocorticoïdes (plus de 2 heures si possible).
+Associations à prendre en compte
++ Fluoroquinolones
+Possible majoration du risque de tendinopathie, voire de rupture tendineuse (exceptionnelle), particulièrement chez les patients recevant une corticothérapie prolongée.
++ Antihypertenseurs
+Diminution de l'effet antihypertenseur (rétention hydrosodée des corticoïdes).
++ Acide acétylsalicylique
+Majoration du risque hémorragique.
+A prendre en compte avec des doses antalgiques ou antipyrétiques (≥ 500 mg par prise et/ou + Anti-inflammatoires non stéroïdiens
+Augmentation du risque d'ulcération et d'hémorragie gastro-intestinale.
++ Curares non dépolarisants : avec les glucocorticoïdes par voie IV
+Risque de myopathie sévère, réversible après un délai éventuellement long (plusieurs mois).
++ Ciclosporine
+Augmentation des effets de la prednisolone : aspect cushingoïde, réduction de la tolérance aux glucides (diminution de la clairance de la prednisolone).

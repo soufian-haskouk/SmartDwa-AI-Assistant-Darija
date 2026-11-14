@@ -1,0 +1,67 @@
+# تشغيل:  docker compose up --build        (الواجهة http://localhost:8501 ، الـ API http://localhost:8000/docs)
+services:
+  backend:
+    build: { context: ., dockerfile: backend/Dockerfile }
+    ports: ["8000:8000"]
+    environment:
+      - USE_LLM=${USE_LLM:-false}
+      - OLLAMA_URL=http://host.docker.internal:11434   # Ollama يشتغل خارج Docker (توفير RAM)
+      - OLLAMA_MODEL=${OLLAMA_MODEL:-atlas-chat-2b}
+      - AMMPS_DATE=${AMMPS_DATE:-2026-11-10}
+    volumes:
+      - ./data:/data
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    mem_limit: 1800m
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8000/health', timeout=4).status==200 else 1)"]
+      interval: 10s
+      timeout: 6s
+      retries: 12
+      start_period: 15s
+
+  ui:
+    build: { context: ., dockerfile: ui/Dockerfile }
+    ports: ["8501:8501"]
+    environment:
+      - BACKEND_URL=http://backend:8000
+    depends_on:
+      backend: { condition: service_healthy }
+    mem_limit: 400m
+
+  # ---- أدوات تُشغَّل عند الحاجة فقط (profile tools): docker compose run --rm <اسم الخدمة> ----
+  prepare:            # يعيد حساب ammps_clean.csv إن تغيّر الملف الخام (hash)
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["python", "/srv/scripts/prepare_data.py"]
+    volumes: ["./data:/srv/data"]
+    profiles: ["tools"]
+
+  rcp-extract:        # يستخرج §4.3 و§4.5 من data/raw/rcp (PDF) و data/raw/rcp_html
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["python", "/srv/scripts/build_rcp_sections.py"]
+    volumes: ["./data:/srv/data"]
+    profiles: ["tools"]
+
+  rag-index:          # يبني data/rag/chunks.jsonl من rcp_sections
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["python", "/srv/scripts/build_rag_index.py"]
+    volumes: ["./data:/srv/data"]
+    profiles: ["tools"]
+
+  arabic-aliases:     # يولّد arabic_brand_aliases.csv من الملف المصري
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["python", "/srv/scripts/build_arabic_aliases.py"]
+    volumes: ["./data:/srv/data"]
+    profiles: ["tools"]
+
+  tests:
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["sh", "-c", "pip install -q pytest && python -m pytest -q /srv/tests"]
+    environment: ["DATA_DIR=/srv/data"]
+    volumes: ["./data:/srv/data", "./tests:/srv/tests"]
+    profiles: ["tools"]
+
+  ml-train:           # يدرّب مصنّف النية داخل نفس بيئة الـ backend (نفس نسخة sklearn) ويكتب data/models/intent.joblib + eval/intent_eval_report.md
+    build: { context: ., dockerfile: backend/Dockerfile }
+    command: ["python", "/srv/ml/train_intent.py", "--medqa", "/srv/data/raw/MedQA_MA.csv", "--out", "/srv/data/models"]
+    volumes: ["./data:/srv/data", "./ml:/srv/ml", "./eval:/srv/eval"]
+    profiles: ["tools"]

@@ -1,0 +1,8 @@
+﻿id,source_rcp,class_term,wrongly_matched_targets,reason_not_applied
+x01,AMLODIPINE,macrolides,AZITHROMYCINE,Seuls l'érythromycine et la clarithromycine sont nommés; azithromycine non nommée
+x02,CLARITHROMYCINE,macrolide,AZITHROMYCINE,"Le mot 'macrolide' désigne la clarithromycine elle-même (contextes QT, antivitamines K) ou une liste générale d'antibiotiques: pas une interaction clarithromycine/azithromycine"
+x03,DICLOFENAC / IBUPROFENE,diurétiques,FUROSEMIDE,Paragraphe sur les 'diurétiques hyperkaliémiants' (épargneurs de potassium): ne concerne pas le furosémide
+x04,DICLOFENAC / IBUPROFENE,anti-inflammatoires non stéroïdiens,ACIDE ACETYLSALICYLIQUE / IBUPROFENE,Mention d'AINS dans un autre contexte (pémétrexed; mécanisme d'une autre interaction): pas une paire de nos substances
+x05,DOMPERIDONE,antihistaminiques,CETIRIZINE / LORATADINE,"Seuls 'méquitazine, mizolastine' sont cités; cétirizine et loratadine non nommées"
+x06,AZITHROMYCINE,statines,ATORVASTATINE,Déjà couvert par r20 (texte mutilé par le tableau)
+x07,CLARITHROMYCINE,statine,ATORVASTATINE,Déjà couvert par r13

@@ -1,0 +1,77 @@
+4.5. Interactions avec d'autres médicaments et autres
+formes d'interactions
+Association faisant l’objet de précautions d’emploi
+
++ Résines échangeuses d’ions (colestyramine, cholestipol, kayexalate, )
+sevelamer, sucralfate, agents topiques gastro-intestinaux, antiacides (sels
+d’aluminium) et adsorbants
+Diminution de l’activité des hormones thyroïdiennes (réduction de leur
+absorption intestinale).
+Les prendre à distance des hormones thyroïdiennes (plus de 2 heures si
+possible).
++ Inducteurs enzymatiques
+Anticonvulsivants (carbamazépine, phénobarbital, phénytoïne,
+primidone, barbituriques) ; griséofulvine ; rifampicine, rifabutine. Décrit
+pour la phénytoïne, la rifampicine et la carbamazépine.
+Risque d’hypothyroïdie clinique chez des patients hypothyroïdiens en cas
+d’utilisation d’associations dû à l’augmentation du métabolisme de la T3
+et de la T4.
+Surveillance des taux sériques de T3 et T4 et adaptation si besoin de la
+posologie des hormones thyroïdiennes pendant le traitement par
+l’inducteur enzymatique et après son arrêt.
++ Effets des médicaments inducteurs du cytochrome P-450
+Les médicaments inducteurs d’enzymes, tels que les produits contenant
+du millepertuis (Hypericum perforatum L.), peuvent augmenter la
+clairance hépatique de la lévothyroxine, ce qui entraîne une réduction
+des concentrations sériques de l’hormone thyroïdienne.
+Par conséquent, les patients suivant un traitement de substitution
+thyroïdien peuvent nécessiter une augmentation de leur dose d’hormone
+thyroïdienne si ces produits sont administrés simultanément.
++ Médicaments contenant des sels de fer, de calcium par voie orale
+Diminution de l’absorption digestive de la lévothyroxine.
+Prendre la lévothyroxine à distance de ces produits (plus de 2 heures, si
+possible).
++ Chloroquine / proguanil
+Risque d’hypothyroïdie clinique chez les patients substitués par des
+hormones thyroïdiennes.
+Surveillance de la TSH et des concentrations sériques de T3 et T4 et
+adaptation si besoin, de la posologie des hormones thyroïdiennes
+pendant le traitement par l’antipaludique et après son arrêt.
+
++ Inhibiteurs de protéase boostés par ritonavir (indinavir, lopinavir)
+Les inhibiteurs de protéase peuvent diminuer l’efficacité des hormones
+thyroïdiennes en augmentant leur métabolisme hépatique. Il est
+recommandé de surveiller étroitement les taux d’hormones thyroïdiennes
+(surveillance clinique et biologique) et le cas échéant d’ajuster la dose de
+lévothyroxine.
++ Estrogènes non contraceptifs
+Risque d’hypothyroïdie clinique en cas d’estrogénothérapie substitutive.
+Dans ce cas, une surveillance clinique et biologique est nécessaire ; la
+dose de lévothyroxine doit être adaptée chez les femmes ménopausées
+prenant des estrogènes.
++ Antisécrétoires inhibiteurs de la pompe à protons (IPP)
+L’administration concomitante des IPP peut entraîner une diminution de
+l’absorption des hormones thyroïdiennes, en raison de l’augmentation du
+pH intra-gastrique causée par les IPP.
+Une surveillance régulière de la fonction thyroïdienne et une surveillance
+clinique sont recommandées pendant le traitement concomitant. Il peut
+être nécessaire d’augmenter la dose d’hormones thyroïdiennes.
+Des précautions doivent également être prises à la fin du traitement par
+les IPP.
+
+Associations à prendre en compte
++ Imatinib, sunitinib
+L’imatinib et le sunitinib sont susceptibles de diminuer l’efficacité de la
+lévothyroxine. Il est donc recommandé de surveiller d’éventuelles
+modifications de la fonction thyroïdienne des patients, à l’initiation ou à
+la fin du traitement concomitant. La dose de lévothyroxine sera ajustée si
+nécessaire.
++ Orlistat
+Orlistat peut interagir avec un traitement substitutif de l’hormone
+thyroïdienne par diminution de l’absorption des hormones thyroïdiennes.
+
+Interférences avec les tests de laboratoire
+La biotine peut interférer avec les tests immunologiques de la fonction
+thyroïdienne basés sur l’interaction entre la biotine et la streptavidine,
+entrainant des résultats d’analyse faussement bas ou faussement élevés
+(voir la rubrique 4.4).

@@ -1,0 +1,4 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Compte tenu des données de pharmacocinétique, de pharmacodynamie, et du profil de tolérance, aucune interaction avec la cétirizine n’est attendue. A ce jour, aucune interaction pharmacodynamique ou pharmacocinétique significative n'a été rapportée lors des études d'interactions médicamenteuses réalisées notamment avec la pseudoéphédrine ou la théophylline (400 mg/jour).
+La prise concomitante d'alcool ou d'autres dépresseurs du système nerveux central (SNC) peut entraîner une altération de la vigilance ou des performances chez les patients sensibles (voir rubrique 4.7).
+Le taux d’absorption de la cétirizine n’est pas diminué par l’alimentation, bien que la vitesse d’absorption soit réduite.

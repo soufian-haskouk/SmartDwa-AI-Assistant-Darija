@@ -1,0 +1,43 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Médicaments bradycardisants
+De nombreux médicaments peuvent entraîner une bradycardie. C’est le cas notamment des antiarythmiques de classe Ia, des bêta-bloquants, de certains antiarythmiques de classe III, de certains antagonistes du calcium, des digitaliques, de la pilocarpine, des anticholinestérasiques etc.
+Antiarythmiques
+De nombreux antiarythmiques sont dépresseurs de l’automatisme, de la conduction et de la contractilité cardiaques. L’association d’antiarythmiques de classes différentes peut apporter un effet thérapeutique bénéfique, mais s’avère le plus souvent très délicate, nécessitant une surveillance clinique étroite et un contrôle de l’ECG. L’association d’antiarythmiques donnant des torsades de pointes (amiodarone, disopyramide, quinidiniques, sotatol) est contre-indiquée.
+L’association d’antiarythmiques de même classe est déconseillée, sauf cas exceptionnel, en raison du risque accru d’effets indésirables cardiaques.
+L’association à des médicaments ayant des propriétés inotropes négatives bradycardisantes et/ou ralentissant la conduction auriculo-ventriculaire est délicate et nécessite une surveillance clinique et un contrôle de l’ECG.
+Associations déconseillées (voir rubrique 4.4)
++ Inhibiteurs calciques de type vérapamil et, dans une moindre mesure, de type diltiazem
+Effet négatif sur la contractilité et la conduction auriculo-ventriculaire. L’administration intraveineuse de vérapamil chez les patients traités par bêta-bloquants peut induire une hypotension sévère et un bloc auriculo-ventriculaire.
++ Antihypertenseurs d’action centrale (par exemple clonidine, méthyldopa, monoxidine, rilménidine)
+L’administration concomitante d’antihypertenseurs d’action centrale peut entraîner une diminution de la fréquence et du débit cardiaques et une vasodilatation. L’arrêt brutal du traitement peut augmenter le risque « d’hypertension rebond ».
++ Fingolimod
+Potentialisation des effets bradycardisants pouvant avoir des conséquences fatales. Les bêta-bloquants sont d’autant plus à risque qu’ils empêchent les mécanismes de compensation adrénergique. Surveillance clinique et ECG continu pendant les 24 heures suivant la première dose.
+Associations faisant l'objet de précautions d’emploi
++ Antiarythmiques de classe I (par exemple quinidine, disopyramide, lidocaïne, phénytoïne, flécaïnide, propafénone)
+Risque de potentialisation de l’effet sur le temps de conduction auriculo-ventriculaire et d’augmentation de l’effet inotrope négatif.
++ Inhibiteurs calciques de type dihydropyridine (par exemple nifédipine)
+Le risque d'hypotension peut être majoré en cas d'administration concomitante et un risque accru de détérioration plus sévère de la fonction ventriculaire chez les patients présentant une insuffisance cardiaque ne peut pas être exclu.
++ Anti-arythmiques de classe III (par exemple amiodarone)
+L’effet sur le temps de conduction auriculo-ventriculaire peut être potentialisé.
++ Médicaments parasympathomimétiques
+Le temps de conduction auriculo-ventriculaire et le risque de bradycardie peuvent être majorés en cas d'administration concomitante.
++ Les bêta-bloquants topiques (par exemple les collyres pour le traitement d’un glaucome)
+Peuvent potentialiser les effets systémiques du bisoprolol.
++ Insuline et antidiabétiques oraux
+Majoration de l’effet hypoglycémiant. L’inhibition des récepteurs bêta-adrénergiques peut masquer les symptômes d’hypoglycémie.
++ Anesthésiques
+Diminution de la tachycardie réflexe et augmentation du risque d’hypotension (pour plus d’informations sur l’anesthésie générale, voir rubrique 4.4).
++ Digitaliques
+Augmentation du temps de conduction auriculo-ventriculaire et par conséquent diminution de la fréquence cardiaque
++ Anti-inflammatoires non stéroïdiens (AINS)
+Les AINS peuvent diminuer l’effet hypotenseur du bisoprolol.
++ Bêta-sympathomimétiques (par exemple isoprénaline, dobutamine)
+L’association avec le bisoprolol peut diminuer l’effet des deux médicaments.
++ Sympathomimétiques qui activent à la fois les récepteurs bêta et alpha-adrénergiques
+L’association avec le bisoprolol peut entraîner une hypertension. Ces interactions sont considérées comme plus susceptibles de se produire avec les bêta-bloquants non sélectifs. 
+Le risque d’hypotension peut être majoré en cas d’administration concomitante avec des anti-hypertenseurs ou avec d’autres médicaments susceptibles de faire baisser la pression artérielle (par exemple antidépresseurs tricycliques, barbituriques phénothiazines).
+Associations à prendre en compte
++ Inhibiteurs de la monoamine-oxydase (à l’exception des IMAO-B)
+Majoration de l’effet hypotenseur des bêta-bloquants, mais également risque de crise hypertensive.
++ Méfloquine
+Majoration du risque de bradycardie.

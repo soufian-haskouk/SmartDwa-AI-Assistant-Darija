@@ -1,0 +1,134 @@
+4.5. Interactions avec d'autres médicaments et autres
+formes d'interactions
+Associations contre-indiquées
+Méthotrexate (utilisé à des posologies > 15 mg/semaine)
+L’utilisation concomitante du méthotrexate et de l’acide acétylsalicylique
+accroît la toxicité hématologique du méthotrexate en raison de la
+diminution de la clairance rénale du méthotrexate par l’acide
+acétylsalicylique. Par conséquent, l’association du méthotrexate (à des
+posologies > 15 mg/semaine) avec ASPIRINE ARROW est contre-indiquée
+(voir rubrique 4.3).
+
+Associations déconseillées
+Uricosuriques (par exemple, probénécide, sulfinpyrazone)
+Les salicylates inversent l’effet des uricosuriques par compétition de
+l’élimination de l’acide urique au niveau des tubules rénaux. L’association
+doit être évitée.
+Alcool
+L'administration concomitante d'alcool et d'acide acétylsalicylique
+augmente le risque de saignements gastro-intestinaux. L’association doit
+être évitée.
+
+Associations faisant l'objet de précautions d’emploi ou à
+prendre en compte
+Anticoagulants et thrombolytiques (par exemple, dérivés coumariniques
+tels que la warfarine, l’héparine et l’altéplase)
+Augmentation du risque de saignement due à l'inhibition de la fonction
+plaquettaire, aux lésions de la muqueuse duodénale et au déplacement
+des anticoagulants oraux de leurs sites de liaison aux protéines
+plasmatiques. Le temps de saignement doit être surveillé (voir rubrique
+4.4).
+
+En particulier, le traitement par l'acide acétylsalicylique ne doit pas être
+instauré dans les 24 premières heures après le traitement par l'altéplase
+chez les patients victimes d'un AVC. L’association n'est donc pas
+recommandée.
+Agents antiplaquettaires (par exemple, clopidogrel, ticlopidine,
+dipyridamole ou cilostazol) et inhibiteurs sélectifs de la recapture de la
+sérotonine (ISRS ; tels que la sertraline ou la paroxétine)
+Augmentation du risque de saignements gastro-intestinaux (voir rubrique
+4.4).
+Hypoglycémiants oraux (par exemple, sulfonylurés et insuline)
+Les salicylés peuvent augmenter l'effet hypoglycémiant des
+antidiabétiques. Par conséquent, un réajustement à la baisse de la dose
+d’antidiabétique peut être approprié si de fortes doses de salicylés sont
+utilisées. Une augmentation des contrôles de la glycémie est
+recommandée.
+Digoxine et lithium
+L'acide acétylsalicylique diminue l'excrétion rénale de la digoxine et du
+lithium entraînant une augmentation de leurs concentrations
+plasmatiques. La surveillance des concentrations plasmatiques de
+digoxine et de lithium est recommandée au début et à la fin du
+traitement avec l'acide acétylsalicylique. Une adaptation posologique
+peut être nécessaire.
+Diurétiques et antihypertenseurs
+Les AINS peuvent diminuer l’effet antihypertenseur des diurétiques (tels
+que furosémide, spironolactone, canrénoate) et des autres agents
+antihypertenseurs (inhibiteurs de l’enzyme de conversion, antagonistes
+des récepteurs de l’angiotensine II et inhibiteurs calciques). La pression
+artérielle doit être surveillée.
+Comme pour les autres AINS, l’association à des diurétiques de l’anse, des
+inhibiteurs de l’enzyme de conversion, des antagonistes des récepteurs
+angiotensine II et des inhibiteurs calciques augmente le risque
+d’insuffisance rénale aigue.
+Diurétiques : risque d’insuffisance rénale aigue due à la réduction de la
+filtration glomérulaire secondaire à une diminution de la synthèse des
+prostaglandines rénales.
+Il est recommandé de s’assurer que le patient est suffisamment hydraté
+et surveiller la fonction rénale à la mise en place du traitement. En cas
+d’association avec le vérapamil, le temps de saignement doit également
+être surveillé.
+
+Inhibiteurs de l’anhydrase carbonique (acétazolamide)
+Peut entraîner une acidose sévère et une augmentation de la toxicité du
+système nerveux central.
+Corticoïdes systémiques
+Le risque d'ulcère gastro-intestinal et de saignement peut être augmenté
+lorsque l'acide acétylsalicylique et les corticostéroïdes sont associés (voir
+rubrique 4.4). Il est conseillé d'envisager l'utilisation de gastro-protecteurs
+chez les patients prenant de l'acide acétylsalicylique et des
+corticostéroïdes, surtout s'ils sont âgés. L’association n'est donc pas
+recommandée.
+Méthotrexate (aux doses < 15 mg/semaine)
+L’association du méthotrexate et de l’acide acétylsalicylique peut
+augmenter la toxicité hématologique du méthotrexate en raison de la
+diminution de la clairance rénale du méthotrexate par l’acide
+acétylsalicylique. Des contrôles hebdomadaires de la numération formule
+sanguine doivent être faits pendant les premières semaines de
+l'association. Une surveillance renforcée devra être mise en place même
+en présence d’une fonction rénale légèrement déficitaire, de même que
+chez les patients âgés.
+L’association du méthotrexate (aux doses > 15 mg/semaine) avec l’acide
+acétylsalicylique est contre-indiquée (voir rubrique 4.3).
+Autres anti-inflammatoires non stéroïdiens
+Augmentation du risque d’ulcères et de saignements gastro-intestinaux
+en raison d’un effet synergique. Si une utilisation simultanée est
+nécessaire, le recours à un traitement gastro-protecteur peut être
+envisagé pour prévenir l’apparition de lésion gastro-intestinales induites
+par les AINS.
+Ibuprofène
+Des données expérimentales suggèrent que l’ibuprofène peut inhiber
+l’effet antiagrégant plaquettaire d’une faible dose d’acide
+acétylsalicylique lorsqu’ils sont pris de façon concomitante. Toutefois, les
+limites de ces données ex vivo et les incertitudes quant à leur
+extrapolation en clinique ne permettent pas d’émettre de conclusion
+formelle pour ce qui est de l’usage régulier de l’ibuprofène. Par ailleurs, en
+ce qui concerne l’ibuprofène utilisé de façon occasionnelle, la survenue
+d’un effet cliniquement pertinent apparaît peu probable (voir rubrique
+5.1).
+Ciclosporine, tacrolimus
+
+L'utilisation concomitante d'AINS et de ciclosporine ou de tacrolimus
+peut augmenter l'effet néphrotoxique de la ciclosporine et du tacrolimus.
+La fonction rénale doit être surveillée en cas d'association avec l'acide
+acétylsalicylique.
+Valproate
+Il a été signalé que l'acide acétylsalicylique diminue la liaison du valproate
+à l'albumine sérique, augmentant ainsi ses concentrations plasmatiques
+libres à l'état d'équilibre. La concentration du valproate doit être
+surveillée pendant l’association.
+Phénytoïne
+Les salicylates diminuent la liaison de la phénytoïne à l'albumine
+plasmatique. Cela peut conduire à une diminution des concentrations de
+phénytoïne totale dans le plasma, mais à une augmentation de la fraction
+libre de la phénytoïne. La concentration de phénytoïne non liée, et donc
+l'effet thérapeutique, ne semble pas être significativement altéré.
+Métamizole
+Le métamizole peut réduire l’effet de l’acide acétylsalicylique sur
+l’agrégation plaquettaire lorsqu’il est pris de façon concomitante. Par
+conséquent, cette association doit être utilisée avec prudence chez les
+patients prenant de l'acide acétylsalicylique à faible dose pour la
+cardioprotection.
+En cas de déficit en glucose-6-phosphate déshydrogénase,
+l’administration d'acide acétylsalicylique a pu provoquer des anémies
+hémolytiques.

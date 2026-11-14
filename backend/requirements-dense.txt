@@ -1,2 +1,0 @@
-# اختياري (dense embeddings): RAG_DENSE=true + هذا الملف. ثقيل (torch)، يحتاج إنترنت.
-sentence-transformers==3.*

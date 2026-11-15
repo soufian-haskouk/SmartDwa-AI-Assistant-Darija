@@ -1,5 +1,4 @@
 __pycache__/
 .env
 models/
-data/processed/.ammps_clean.state.json
 ui/

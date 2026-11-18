@@ -1,6 +1,2 @@
 __pycache__/
 .env
-data/raw/medqa_ma/
-data/rag/
-models/
-data/processed/.ammps_clean.state.json

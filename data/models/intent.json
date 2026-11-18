@@ -1,0 +1,20 @@
+{
+ "sklearn": "1.5.2",
+ "labels": [
+  "price",
+  "interaction",
+  "contraindication",
+  "dosage",
+  "side_effects",
+  "alternative",
+  "drug_info",
+  "emergency",
+  "out_of_scope"
+ ],
+ "threshold": 0.55,
+ "n_train": 15998,
+ "n_val": 3977,
+ "n_gold": 176,
+ "gold_macro_f1": 0.7633332686095877,
+ "model": "tfidf(word1-2+char_wb2-5)+LogReg"
+}

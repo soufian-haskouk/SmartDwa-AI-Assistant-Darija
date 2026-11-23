@@ -1,0 +1,7 @@
+﻿*.html linguist-vendored
+backend/**/*.py linguist-language=Python
+ml/**/*.py linguist-language=Python
+scripts/**/*.py linguist-language=Python
+tests/**/*.py linguist-language=Python
+ui/**/*.py linguist-language=Python
+*.py linguist-language=Python

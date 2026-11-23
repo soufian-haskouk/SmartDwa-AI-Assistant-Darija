@@ -1,0 +1,15 @@
+"""Garde-fou déterministe « drapeaux rouges » (urgence) — utilisé UNIQUEMENT en mode INTENT_BACKEND=remote.
+
+Pourquoi : le classifieur XLM-R a un recall `emergency` plus bas que ce que la sécurité exige (≈ 0,72–0,86 sur nos tests libres). Cette regex est
+la politique P1 du projet (docs/politique_labels_intent_fr.md) : « drapeau rouge ⇒ toujours emergency ». Elle PRIME sur le modèle.
+Compromis assumé : quelques faux positifs (on préfère envoyer vers le 141 à tort que rater une urgence).
+⚠️ Lexique écrit par l'IA ; la couverture mesurée AVANT extension sur 30 urgences inédites était de 16/30 (puis étendu : mesure devenue circulaire).
+Ce n'est pas un détecteur médical complet.
+"""
+import re
+
+RED = re.compile("ضيق (ف|في)?(ال)?(نفس|صدر|تنفس)|(ما|مابقيتش|ما بقيتش)( قادر(ة)?| كنقدرش| كنقدر)? (ن)?تنفس|حبس(ت)? (ليا|عليا|علي) (ال)?نفس|(ألم|وجع|الم) (قوي |شديد )?(ف|في)?(ال)?صدر|تنفخ|تورم|مغمي|غمات|غمي عليا|فقد(ت|ان)? الوعي|ما بغاش يفيق|ما كتفيقش|ما كيفيقش|(ن)?بزق (ال)?دم|تقيأ (ال)?دم|كنزيف|نزيف(?!\\s*(ديال|د|من)?\\s*(ال)?[اأ]نف)|تشنج|اختناق|نموت|ننهي حياتي|نقتل راسي|ما بغيتش نعيش|جرعة زايدة|سوبردوز|تسمم|بلع(ات|و)? (علبة|كامل|كاع|قرص|الدوا)|(شرب|شربت|خدا|خديت|خدات)( \\S+)? (بزاف|جوج علب|علبة)|طوارئ|نغمي|ما قادرش نتنفس|ضاق(ت)? (عليا|علي) (ال)?نفس|[تي]نفخ|سقط(ات)? وما|ما (بقاش|بقات|بقيتش) (كيتحرك|كتجاوب|كيجاوب)|كيتخنق|كتخنق|اختنق|(بغيت|باغي) (ن)?(سالي|سلي|نهي|ننهي|نقطع) (مع )?(ال)?حياتي|ما (بقيتش|بغيتش|بقيت) (بغيت|باغي)? ?(ن)?عيش|بلع(ات|و)?\\b|دم (بزاف )?من (ال)?(انف|أنف)|(ال)?دم.{0,12}(ما كيوقفش|ما كيتوقفش)|(وجع|ألم|الم|wja3) (قوي|9awi|قوي)? ?(ف|في|f)? ?(ال)?(صدر|sder)|nteneffe?s+|ntnfs|nteneffs|nghma|mghma|ghma|mghm3|mkhlou3|bl3at|bela3|bl3 |3tato|3tat |nmout|nmot\\b|nqtl rassi|nktl rassi|(7bs|haps|7abs) liya (nafas|nfs)|nbzeg|nbzg|ddem|khdit (\\w+ )?bzaf|khditha bzaf|tnfakh|tnfa5|(du mal|de la peine|difficult\\w*) (à|a) respirer|ne (peux|respire|respirait) (pas|plus)|inconscient|pris (trop|toute|tout|une boîte)|perdu connaissance|évanoui|evanoui|convuls|gonfl|surdos|overdose|aval(é|e|er)s?|empoisonn|(je|il|elle) saigne|saigne beaucoup|hémorrag|veux mourir|en finir avec la vie|envie de mourir|me tuer|allergie grave|douleur thoracique|essouffl|je me sens mourir|can'?t breathe|cannot breathe|trouble breathing|shortness of breath|chest pain|hurts and i can'?t|unconscious|seizure|convuls|took (too (much|many)|double)|swallowed|swollen|swelling|\\bfaint|kill myself|want to die|ending my life|end my life|end it all|allergic reaction|bleeding|poison|ضيق\\s*(ف|في)?\\s*(ال)?(نفس|صدر|تنفس)|(ألم|وجع|الم)\\s*\\S{0,8}\\s*(ف|في)?(ال)?صدر|ضغط\\s*(ف|في)?(ال)?صدر|معرفتش نتنفس|ما قادرش نهضر|نأذي راسي|نؤذي راسي|نأذي نفسي|ما بقات كتعطيني جواب|ma (bqatch|b9atch|bqat) kat?3tini|mghmd|tghtat|tkhnak|tkhnk|ytnfs|kaytqay|f sder|wja3 f sder|sder w|ndkhel nafas|ma9drach (nd?khel|nteneffes)|lwn dyali tbddl|(khda|khdit|khdat|shrb|chrb)\\b.{0,30}(b ?ghalat|kamel|toute)|nsali m3a nafsi|nsali 7yati|étouff|blood everywhere|won'?t stop|not breathing|isn'?t breathing|stopped breathing|crushing", re.I)
+
+
+def is_red_flag(text: str) -> bool:
+    return bool(RED.search(text or ""))

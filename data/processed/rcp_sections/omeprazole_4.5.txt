@@ -1,0 +1,36 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Effets de l’oméprazole sur la pharmacocinétique des autres substances actives
+Substances actives dont l’absorption est dépendante du pH
+La diminution de l’acidité intragastrique au cours du traitement par l’oméprazole peut diminuer ou augmenter l’absorption des substances actives dont l’absorption est dépendante du pH.
+Nelfinavir, atazanavir
+Les concentrations plasmatiques de l'atazanavir et du nelfinavir diminuent en cas de co-administration avec l'oméprazole.
+L'administration concomitante d'oméprazole avec le nelfinavir est contre-indiquée (voir rubrique 4.3).
+L'administration concomitante d'oméprazole (40 mg une fois par jour) a entraîné une diminution de l’exposition moyenne au nelfinavir de 40% et une diminution de l’exposition moyenne de son métabolite pharmacologiquement actif M8 de 75 à 90%. L’interaction pourrait également entraîner une inhibition du CYP2C19.
+L'administration concomitante d'oméprazole avec l’atazanavir n'est pas recommandée (voir rubrique 4.4).
+L’oméprazole (40 mg en une prise par jour) administré en association avec l’atazanavir 300 mg associé au ritonavir 100 mg, chez des volontaires sains, a entraîné une diminution de 75% de l’exposition à l’atazanavir. L’augmentation de la posologie de l’atazanavir à 400 mg n’a pas compensé l’impact de l’oméprazole sur l’exposition à l’atazanavir. L’association d’oméprazole (20 mg une fois par jour) avec l’atazanavir 400 mg/ritonavir 100 mg chez des volontaires sains a diminué approximativement de 30% l’exposition à l’atazanavir en comparaison à l’exposition observée avec l’atazanavir 300 mg/ ritonavir 100 mg une fois par jour.
+Digoxine
+Un traitement concomitant par oméprazole (20 mg par jour) et digoxine chez des sujets sains augmente la biodisponibilité de la digoxine de 10%. La toxicité de la digoxine est rarement rapportée. Cependant, il faut être prudent chez les patients âgés lorsque l’oméprazole est administré à de fortes doses. La surveillance thérapeutique de la digoxine doit alors être renforcée.
+Clopidogrel
+Les résultats des études menées chez des sujets sains ont montré une interaction pharmacocinétique (PK)/ pharmacodynamique (PD) entre le clopidogrel (pour une dose de charge de 300 mg / suivie d’une dose d’entretien de 75 mg par jour) et l’oméprazole (80 mg par jour par voie orale) entrainant une diminution moyenne de 46% de l’exposition au métabolite actif du clopidogrel et entrainant une diminution de l’inhibition maximale de l’agrégation plaquettaire (induite par l’ADP) de 16% en moyenne.
+Des données contradictoires sur les conséquences cliniques d’une interaction PK/PD de l’oméprazole en termes d’événements cardiovasculaires majeurs ont été rapportées à la fois dans les études observationnelles et cliniques. Par mesure de précaution, l’utilisation concomitante d’oméprazole et de clopidogrel doit être déconseillée (voir rubrique 4.4).
+Autres substances actives
+L’absorption du posaconazole, de l’erlotinib, du kétoconazole et de l’itraconazole est significativement diminuée et l’efficacité clinique peut donc être affaiblie. L’association concomitante du posaconazole et de l’erlotinib avec l’oméprazole doit être évitée.
+Substances actives métabolisées par le CYP2C19
+L’oméprazole est un inhibiteur modéré du CYP2C19, principal enzyme de métabolisation de l’oméprazole. 
+De ce fait, lors d’une administration concomitante avec des substances actives métabolisées par le CYP2C19, la métabolisation peut être diminuée et l’exposition systémique de ces substances augmentée. Des exemples de tels médicaments sont la R-warfarine et les autres anti-vitamines K, le cilostazol, le diazépam et la phénytoïne.
+Cilostazol
+L’oméprazole administré à la dose de 40 mg à des sujets sains dans une étude en cross-over, a augmenté la Cmax et l’ASC pour le cilostazol de 18% et 26% respectivement, et pour l’un de ses métabolites actifs de 29% et 69% respectivement.
+Phénytoïne
+Il est recommandé de surveiller les concentrations plasmatiques de phénytoïne durant les deux premières semaines qui suivent l’initiation d’un traitement par oméprazole. Si un ajustement de dose de phénytoïne est réalisé, une surveillance et des ajustements de doses successifs peuvent être nécessaires jusqu’à la fin du traitement par oméprazole.
+Mécanisme inconnu
+Saquinavir
+Il resulte de l'administration concomitante d'oméprazole avec du saquinavir/ritonavir une augmentation des concentrations plasmatiques d’environ 70% pour le saquinavir, ceci associé à une bonne tolérance chez les patients infectés par le VIH.
+Tacrolimus
+L’administration concomitante d’oméprazole augmente les concentrations sériques du tacrolimus. Une surveillance renforcée des concentrations du tacrolimus et de la fonction rénale (clairance de la créatinine) doit être réalisée ainsi qu’un ajustement du dosage du tacrolimus si nécessaire.
+Méthotrexate
+Une augmentation des concentrations de méthotrexate a été observée chez certains patients en cas d’administration concomitante de méthotrexate avec les inhibiteurs de la pompe à protons (IPP). Lors de l'administration de fortes doses de méthotrexate, un arrêt provisoire du traitement par oméprazole peut être nécessaire.
+Effets des autres substances actives sur la pharmacocinétique de l’oméprazole
+Inhibiteurs du CYP2C19 et/ou du CYP3A4
+Comme l’oméprazole est métabolisé par CYP2C19 et CYP3A4, des substances actives connues pour inhiber CYP2C19 ou CYP3A4 (telles que la clarithromycine et le voriconazole) peuvent conduire à une augmentation des taux sériques d’oméprazole par diminution de sa métabolisation. L’administration concomitante du voriconazole a entraîné plus d’un doublement de l’exposition à l’oméprazole. L’oméprazole à forte dose a été bien toléré, l’ajustement des doses d’oméprazole n’est généralement pas nécessaire. Cependant, un ajustement de dose peut être nécessaire chez les patients souffrant d’une insuffisance hépatique sévère et si un traitement à long terme est indiqué.
+Inducteurs du CYP2C19 et/ou du CYP3A4
+Des substances actives connues pour être inductrices du CYP2C19 ou du CYP3A4 ou des deux (comme la rifampicine et le millepertuis) peuvent entraîner une diminution des concentrations plasmatiques d’oméprazole par augmentation de sa métabolisation.

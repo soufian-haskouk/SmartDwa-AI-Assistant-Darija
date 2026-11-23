@@ -1,0 +1,21 @@
+﻿substance_id,source,product,chars_4_3,chars_4_5,ok,note
+PARACETAMOL,html,"DOLIPRANE 1000 mg, comprimé (CIS 60234100)",145,1122,True,
+IBUPROFENE,html,"ADVIL 200 mg, comprimé enrobé (CIS 68634000)",1197,7198,True,
+ACIDE ACETYLSALICYLIQUE,pdf,RCP PDF (utilisateur),908,7107,True,
+DICLOFENAC,html,"DICLOFENAC ARROW 50 mg, comprimé gastro-résistant (CIS 67411717)",1386,10329,True,
+OMEPRAZOLE,html,"MOPRAL 20 mg, gélule gastro-résistante (CIS 64103828)",311,6293,True,
+DOMPERIDONE,html,"DOMPERIDONE ARROW 10 mg, comprimé orodispersible (CIS 62128302)",1231,3161,True,
+LOPERAMIDE,pdf,RCP PDF (utilisateur),923,1368,True,
+AMOXICILLINE,html,"AMOXICILLINE ALMUS 1 g, comprimé dispersible (CIS 60151544)",302,1393,True,
+AZITHROMYCINE,pdf,RCP PDF (utilisateur),206,5341,True,
+CLARITHROMYCINE,html,"CLARITHROMYCINE ACCORD 250 mg, comprimé pelliculé (CIS 68356362)",1709,22781,True,
+METFORMINE,html,"GLIMEZIT 1000 mg, comprimé effervescent (CIS 63806909)",712,2812,True,marque; contient uniquement metformine (ATC A10BA02)
+LEVOTHYROXINE,pdf,RCP PDF (utilisateur),834,4046,True,
+AMLODIPINE,html,"AMLODIPINE ALMUS 10 mg, gélule (CIS 69622809)",489,3864,True,
+BISOPROLOL,html,"BISOPROLOL BIOGARAN 10 mg, comprimé pelliculé sécable (CIS 67736575)",835,4803,True,
+ATORVASTATINE,html,"ATORVASTATINE ALMUS PHARMA 10 mg, comprimé pelliculé (CIS 60519117)",604,15995,True,
+FUROSEMIDE,html,"FUROSEMIDE ARROW 20 mg, comprimé sécable (CIS 68009803)",669,8230,True,
+SALBUTAMOL,html,"AIROMIR AUTOHALER 100 microgrammes/dose, suspension pour inhalation (CIS 66086181)",348,1433,True,forme inhalée: l'RCP peut différer des formes orales
+LORATADINE,html,"HUMEX ALLERGIE LORATADINE 10 mg, comprimé (CIS 68728738)",150,480,True,
+CETIRIZINE,html,"REACTINE 10 mg, comprimé pelliculé sécable (CIS 64939766)",251,774,True,
+PREDNISOLONE,html,"HYDROCORTANCYL 2,5 POUR CENT, suspension injectable (CIS 66330098)",852,6654,True,acétate de prednisolone injectable: l'RCP diffère des formes orales

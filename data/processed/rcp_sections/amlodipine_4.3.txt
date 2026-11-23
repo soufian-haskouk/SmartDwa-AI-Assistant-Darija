@@ -1,0 +1,7 @@
+4.3. Contre-indications
+L’amlodipine est contre-indiquée chez les patients présentant :
+· une hypersensibilité à l’amlodipine, aux dérivés de la dihydropyridine ou à l’un des excipients mentionnés à la rubrique 6.1 ;
+· une hypotension sévère ;
+· un choc (y compris choc cardiogénique) ;
+· une obstruction de la voie d’éjection du ventricule gauche (par exemple, sténose aortique de degré élevé) ;
+· une insuffisance cardiaque hémodynamiquement instable après un infarctus aigu du myocarde.

@@ -1,0 +1,3 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Des études de performances psychomotrices n'ont pas mis en évidence de potentialisation des effets de HUMEX ALLERGIE LORATADINE lors de l'administration simultanée d'alcool.
+Le risque d'interactions avec les inhibiteurs des cytochromes CYP3A4 ou CYP2D6 entraînant une augmentation des concentrations plasmatiques de loratadine peut majorer le risque de survenue d'effets indésirables (voir rubrique 5.2).

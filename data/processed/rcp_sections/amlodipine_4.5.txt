@@ -1,0 +1,21 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Effets des autres médicaments sur l’amlodipine
++ Inhibiteurs du CYP3A4
+L’utilisation concomitante d’amlodipine avec des inhibiteurs forts ou modérés du CYP3A4 (inhibiteurs de la protéase, antifongiques azolés, macrolides tels que l’érythromycine ou la clarithromycine, le vérapamil ou le diltiazem) peut donner lieu à une augmentation significative de la concentration plasmatique d’amlodipine entraînant un risque accru d’hypotension.
+La traduction clinique de ces variations pharmacocinétiques peut être plus prononcée chez le sujet âgé. Par conséquent, une surveillance clinique et un ajustement de la dose pourront être nécessaires.
++ Inducteurs du CYP3A4
+Lors de la co-administration d’inducteurs connus du CYP3A4, la concentration plasmatique d’amlodipine peut varier. Par conséquent, la pression artérielle doit être surveillée et une adaptation posologique doit être envisagée pendant et après la prise concomitante d’un médicament, en particulier avec des inducteurs puissants du CYP3A4 (par exemple, rifampicine, millepertuis [Hypericum perforatum]).
+L’administration d’amlodipine avec du pamplemousse ou du jus de pamplemousse n’est pas recommandée, car la biodisponibilité peut être augmentée chez certains patients, ce qui peut entraîner une augmentation des effets hypotenseurs.
++ Dantrolène (perfusion)
+Chez l’animal, une fibrillation ventriculaire et un collapsus cardiovasculaire létaux ont été observés en association avec une hyperkaliémie après l’administration de vérapamil et de dantrolène IV. Compte tenu du risque d’hyperkaliémie, il est recommandé d’éviter l’administration concomitante d’inhibiteurs calciques comme l’amlodipine chez les patients susceptibles de présenter une hyperthermie maligne et dans la prise en charge de l’hyperthermie maligne.
+Effets de l’amlodipine sur d’autres médicaments
+Les effets hypotenseurs de l’amlodipine s’ajoutent à ceux d’autres médicaments présentant des propriétés antihypertensives.
++ Tacrolimus
+Il existe un risque d’augmentation des concentrations plasmatiques de tacrolimus en cas d’administration concomitante avec l’amlodipine, mais le mécanisme pharmacocinétique de cette interaction n’est pas entièrement compris. Afin d’éviter une toxicité du tacrolimus, l’administration d’amlodipine à un patient traité par tacrolimus impose la surveillance des concentrations plasmatiques de tacrolimus et un ajustement posologique du tacrolimus le cas échéant.
++ Inhibiteurs de la cible mécanique de la rapamycine (mTOR)
+Les inhibiteurs de mTOR comme le sirolimus, le temsirolimus et l’évérolimus sont des substrats du CYP3A. L’amlodipine est un faible inhibiteur du CYP3A. En utilisation concomitante avec l’amlodipine, les inhibiteurs de mTOR peuvent avoir une augmentation de leur activité.
++ Ciclosporine
+Aucune étude d’interaction n’a été menée avec la ciclosporine et l’amlodipine chez des volontaires sains ou d’autres populations, à l’exception des patients ayant bénéficié d’une transplantation rénale ; il a alors été observé une augmentation variable de la concentration minimale de la ciclosporine (de 0 % à 40 % en moyenne). Le taux de ciclosporine doit être surveillé chez les sujets ayant bénéficié d’une transplantation rénale et traités par amlodipine et une réduction de la posologie de la ciclosporine doit être envisagée si besoin.
++ Simvastatine
+L’administration concomitante de doses répétées de 10 mg d'amlodipine avec 80 mg de simvastatine entraîne une augmentation de 77 % de l'exposition à la simvastatine par rapport à la simvastatine seule. La dose quotidienne de simvastatine doit être limitée à 20 mg chez les patients traités par amlodipine.
+Dans les études d’interactions cliniques, l’amlodipine n’a pas affecté les propriétés pharmacocinétiques de l’atorvastatine, la digoxine ou la warfarine.

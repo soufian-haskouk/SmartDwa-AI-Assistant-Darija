@@ -1,0 +1,72 @@
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Médicaments hypokaliémiants
+L'hypokaliémie est un facteur favorisant l'apparition de troubles du rythme cardiaque (torsades de pointes notamment) et augmentant la toxicité de certains médicaments, par exemple la digoxine. De ce fait, les médicaments qui peuvent entraîner une hypokaliémie sont impliqués dans un grand nombre d'interactions. Il s'agit des diurétiques hypokaliémiants, seuls ou associés, des laxatifs stimulants, des glucocorticoïdes, du tétracosactide et de l'amphotéricine B (voie IV).
+Médicaments hyponatrémiants
+Certains médicaments sont plus fréquemment impliqués dans la survenue d’une hyponatrémie. Ce sont les diurétiques, la desmopressine, les antidépresseurs inhibant la recapture de la sérotonine, la carbamazépine et l’oxcarbazépine. L’association de ces médicaments majore le risque d’hyponatrémie.
+Médicaments ototoxiques
+L’utilisation conjointe de médicaments ayant une ototoxicité augmente le risque d’atteinte cochléo-vestibulaire. Si une telle association est nécessaire, il convient de renforcer la surveillance de la fonction auditive.
+Les médicaments concernés sont, notamment, les glycopeptides tels que la vancomycine et la téicoplanine, les aminosides, les organoplatines et les diurétiques de l’anse.
+Associations déconseillées
++ Lithium
+Augmentation de la lithémie avec signes de surdosage, comme lors d'un régime désodé (diminution de l'excrétion urinaire du lithium).
+Si l'association ne peut être évitée, surveillance stricte de la lithémie et adaptation de la posologie du lithium.
+Associations faisant l'objet de précautions d’emploi
++ Acide acétylsalicylique pour des doses anti-inflammatoires d’acide acétylsalicylique (≥ 1 g par prise et/ou ≥ 3 g par jour) ou pour des doses antalgiques ou antipyrétiques (≥ 500 mg par prise et/ou Insuffisance rénale aiguë chez le malade déshydraté, par diminution de la filtration glomérulaire secondaire à une diminution de la synthèse des prostaglandines rénales. Par ailleurs, réduction de l’effet antihypertenseur.
+Hydrater le malade ; surveiller la fonction rénale en début de traitement.
++ Anti-inflammatoires non stéroïdiens
+Insuffisance rénale aiguë chez le malade à risque (sujet âgé et/ou déshydraté) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices due aux anti-inflammatoires non stéroïdiens). Par ailleurs, réduction de l’effet antihypertenseur.
+Hydrater le malade et surveiller la fonction rénale en début de traitement.
++ Aliskirène
+L’aliskirène réduit la concentration plasmatique du furosémide administré par voie orale. Une réduction de l’effet du furosémide peut être observée chez les patients traités à la fois par de l’aliskirène et par du furosémide par voie orale, et il est recommandé de surveiller la réduction de l’effet diurétique et d’adapter la dose de furosémide en conséquence.
++ Autres hypokaliémiants 
+Risque majoré d'hypokaliémie.
+Surveillance de la kaliémie avec si besoin correction.
++ Digitaliques
+Hypokaliémie favorisant les effets toxiques des digitaliques. Corriger auparavant toute hypokaliémie et réaliser une surveillance clinique, électrolytique et électrocardiographique. 
++ Diurétiques, épargneurs de potassium, seuls ou associés (amiloride, canrénoate de potassium, éplérénone, spironolactone, triamtérène)
+L'association rationnelle, utile pour certains patients, n'exclut pas la survenue d'hypokaliémie ou, en particulier chez l'insuffisant rénal et le diabétique, d'hyperkaliémie.
+Surveiller la kaliémie, éventuellement l'ECG, et s'il y a lieu, reconsidérer le traitement.
++ Aminosides
+Augmentation des risques néphrotoxiques et ototoxiques des aminosides (insuffisance rénale fonctionnelle liée à la déshydratation entraînée par le diurétique).
+Association possible sous surveillance de l'état d'hydratation et des fonctions rénales et cochléo-vestibulaires et éventuellement des concentrations plasmatiques de l'aminoside.
++ Phénytoïne (et, par extrapolation, fosphénytoïne)
+Diminution de l'effet diurétique pouvant atteindre 50 %.
+Utiliser éventuellement des doses plus élevées de furosémide.
++ Carbamazépine
+Risque d'hyponatrémie symptomatique.
+Surveillance clinique et biologique. Si possible, utiliser une autre classe de diurétiques.
++ Inhibiteurs de l'enzyme de conversion (IEC), antagonistes des récepteurs de l'angiotensine II
+Risque d'hypotension artérielle brutale et/ou d'insuffisance rénale aiguë lors de l'instauration ou de l’augmentation de la posologie d'un traitement par un IEC ou un antagoniste de l'angiotensine II en cas de déplétion hydrosodée préexistante.
+Dans l'hypertension artérielle, lorsqu'un traitement diurétique préalable a pu entraîner une déplétion sodée, il faut :
+· soit arrêter le diurétique durant 3 jours avant de débuter le traitement par l'IEC ou l'antagoniste de l'angiotensine II et réintroduire un diurétique hypokaliémiant si nécessaire ultérieurement ;
+· soit administrer des doses initiales réduites d'IEC ou de l'antagoniste de l'angiotensine II et augmenter progressivement la posologie.
+Dans l'insuffisance cardiaque congestive traitée par diurétiques, commencer par une dose très faible d'IEC, éventuellement après réduction de la dose du diurétique hypokaliémiant associé.
+Dans tous les cas, surveiller la fonction rénale (dosage de la créatininémie) dans les premières semaines du traitement par l'IEC ou par un antagoniste de l'angiotensine II.
++ Médicaments susceptibles de donner des torsades de pointes : antiarythmiques de classe Ia (quinidine, hydroquinidine, disopyramide) et de classe III (amiodarone, sotalol, ibutilide, dofétilide), certains neuroleptiques phénothiaziniques (chlorpromazine, cyamémazine, fluphénazine, lévomépromazine, pipotiazine), benzamides (amisulpride, sulpiride, sultopride, tiapride), butyrophénones (dropéridol, halopéridol, pipampérone), autres neuroleptiques (pimozide, sertindole, flupentixol, zuclopenthixol), autres : bépridil, cisapride, diphémanil, dolasétron IV, dronédarone, spiramycine IV, érythromycine IV, mizolastine, lévofloxacine, halofantrine, luméfantrine, pentamidine, vincamine IV, moxifloxacine, méquitazine, méthadone, prucalopride, torémifène, arsénieux, citalopram, escitalopram
+Risque majoré de troubles du rythme ventriculaire, notamment de torsades de pointes.
+Corriger toute hypokaliémie avant d'administrer le produit et réaliser une surveillance clinique, électrolytique et électrocardiographique.
++ Metformine
+Acidose lactique due à la metformine, déclenchée par une éventuelle insuffisance rénale fonctionnelle liée aux diurétiques et plus spécialement aux diurétiques de l'anse.
+Ne pas utiliser la metformine lorsque la créatininémie dépasse 15 mg/L (135 µmol/L) chez l'homme et 12 mg/L (110 µmol/L) chez la femme.
++ Produits de contraste iodés
+En cas de déshydratation provoquée par les diurétiques, risque majoré d'insuffisance rénale fonctionnelle aiguë, en particulier lors de l'utilisation de doses importantes de produits de contraste iodés.
+Réhydratation avant administration du produit iodé.
++ Baclofène
+Majoration du risque d’hypotension, notamment orthostatique. Surveillance de la pression artérielle et adaptation posologique de l'antihypertenseur si nécessaire. 
+Associations à prendre en compte
++ Ciclosporine
+Risque d'augmentation de la créatininémie sans modification des concentrations sanguines de ciclosporine, même en l'absence de déplétion hydrosodée. Egalement, risque d'hyperuricémie et de complications comme la goutte.
++ Neuroleptiques
+Majoration du risque d’hypotension, notamment orthostatique.
++ Antidépresseurs imipraminiques
+Majoration du risque d’hypotension, notamment orthostatique.
++ Amifostine
+Majoration du risque d’hypotension, notamment orthostatique.
++ Alpha-bloquants à visée urologique : alfuzosine, doxazosine, prazosine, térazosine, tamsulosine
+Majoration de l’effet hypotenseur. Risque majoré d’hypotension orthostatique. 
++ Antihypertenseurs alpha-bloquants
+Majoration de l’effet hypotenseur. Risque majoré d’hypotension orthostatique.
++ Organoplatines
+Risque d’addition des effets ototoxiques et/ou néphrotoxiques.
++ Dérivés nitrés et apparentés
+Majoration du risque d’hypotension, notamment orthostatique.

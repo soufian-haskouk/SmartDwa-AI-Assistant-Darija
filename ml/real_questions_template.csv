@@ -1,0 +1,11 @@
+text,label
+"شحال كيسوا Doliprane 1000 فالصيدلية",price
+"واش نقدر نشرب Augmentin مع القهوة",interaction
+"واش نقدر ناخد Voltarène وأنا حامل",contraindication
+"شحال من حبة ناخد من Spasfon فالنهار",dosage
+"واش Glucophage كيسبب الغثيان",side_effects
+"Smecta ما كايناش فالصيدلية شنو نشري بلاصتها",alternative
+"Clamoxyl دوا ديال شنو",drug_info
+"ولدي بلع علبة ديال Spasfon وكيتقيأ",emergency
+"كيفاش نتخلص من الصداع بلا دوا",symptoms_query
+"شكون كيلعب اليوم ف الديربي",out_of_scope

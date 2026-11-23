@@ -1,0 +1,302 @@
+# test_v5 (test_fresh) : جمل جديدة كتبها Claude يدوياً بعد v4، مختلفة عن القوالب وعن test_free. صيغة السطر: label|text . سياسة labels = docs/politique_labels_intent_fr.md
+price|شحال ثمن الدوا ديال الضغط Tensiofort
+price|بغيت نعرف شحال كيتباع Gaviscon فالصيدلية
+price|واش Doliprane sirop ثمنو غالي
+price|ch7al ssi3r dial Ventoline
+price|chhal khassni nkhls 3la Augmentin 1g
+price|b9addach kayji Zyrtec daba
+price|taman l'Aerius 5mg ?
+price|combien je dois payer pour du Nurofen
+price|c'est combien le Smecta en pharmacie
+price|le prix du Levothyrox 100 SVP
+price|what's the price of Lasilix
+price|how much does a box of Imodium cost
+price|cost of Zithromax in Morocco
+price|شحال كتسوا علبة ديال الفيتامين د
+price|ثمن Clamoxyl للأطفال شحال
+price|عفاك شحال كيسوا Dafalgan 1g
+price|Glucophage 850 b ch7al
+price|wach Kardegic ghali
+price|كاين تخفيض فثمن Metformine؟
+price|بشحال كيتباع Maxilase sirop
+price|ch7al kaysswa Cetirizine
+price|Lexomil prix au Maroc
+price|تمن Spasfon شحال دابا
+price|combien coûte le Mopral 20mg
+price|how much is a pack of Strepsils
+price|Augmentin sachet prix ?
+price|شحال خاصني نخلص باش نشري Voltarène 75
+price|b ch7al l'Efferalgan codéiné
+price|quel est le tarif du Ventoline en pharmacie
+price|price for Xanax 0.5 please
+interaction|واش نقدر نشرب Augmentin مع الإيبوبروفين
+interaction|Doliprane و Efferalgan واش نخلطهم
+interaction|هل الأسبرين مع الوارفارين خطير
+interaction|khdit Ventoline w bghit nakhod Aerius wach 3adi
+interaction|wach Voltarène m3a Aspegic mouchkil
+interaction|nakhod Metformine w nchrb l'alcool wach 3adi
+interaction|واش الدوا ديال الضغط كيتخلط مع الباراسيتامول
+interaction|واش نقدر نشرب Clamoxyl مع الحليب
+interaction|est-ce que je peux prendre Smecta avec un antibiotique
+interaction|Lasilix et Aspegic ensemble danger ?
+interaction|puis-je associer Mopral et Gaviscon
+interaction|Xanax avec de l'alcool c'est dangereux ?
+interaction|can I take ibuprofen and paracetamol together
+interaction|is it safe to take Zithromax with antacids
+interaction|does Plavix interact with Aspirin
+interaction|can I drink wine while on Augmentin
+interaction|واش القهوة مع Levothyrox كتأثر
+interaction|Kardegic w Voltarène kaytjam3o ?
+interaction|شنو كيوقع إلا خلطت جوج أدوية ديال الضغط
+interaction|واش نشرب الشاي مع الحديد
+interaction|wach lkahoul kayt3arad m3a l'antibiotique
+interaction|Doliprane m3a Nurofen f nafs nhar 3adi ?
+interaction|est-ce que le pamplemousse pose un problème avec les statines
+interaction|Tahor et Kardegic compatibles ?
+interaction|واش Spasfon و Smecta كيتفاعلو
+interaction|possible de prendre Zyrtec avec Ventoline ?
+interaction|can I mix cough syrup with my blood pressure pill
+interaction|interaction between metformin and alcohol
+interaction|واش الأنسولين مع الأسبرين فيه مشكل
+interaction|wach nakhod Humex m3a Doliprane
+contraindication|شكون ممنوع عليه ياخد Voltarène
+contraindication|واش Aspegic خطير على القرحة
+contraindication|واش الحامل تقدر تستعمل Augmentin
+contraindication|je suis enceinte puis-je prendre du Spasfon
+contraindication|Doliprane contre-indiqué en cas de maladie du foie ?
+contraindication|who should not use Ventoline
+contraindication|is Xanax safe for people with glaucoma
+contraindication|can pregnant women take Zyrtec
+contraindication|3ndi daghta 3aliya wach nakhod Humex
+contraindication|wach Nurofen mamnou3 l mard dial lkoulya
+contraindication|واش مريض السكر يقدر ياخد Solupred
+contraindication|ولدي صغير عندو 3 سنين واش نعطيه Smecta
+contraindication|واش الرضيعة تقدر تاخد Doliprane
+contraindication|mawani3 dial Lasilix chno homa
+contraindication|chkoun ma ymknch ykhdem Zithromax
+contraindication|عندي الربو واش نشرب Aspegic
+contraindication|Kardegic interdit si on a un ulcère ?
+contraindication|est-ce que Mopral est déconseillé aux femmes allaitantes
+contraindication|contre-indications du Plavix
+contraindication|is ibuprofen allowed for asthma patients
+contraindication|can children under 6 take Aerius
+contraindication|contraindications of metformin
+contraindication|واش الدوا هادا خاطر على الكلى Voltarène
+contraindication|Nurofen dangereux pour le coeur ?
+contraindication|wach 3ndi l7a9 nakhod Efferalgan w ana 7amel
+contraindication|ana kanrdda3 wach n9der nstaamel Clamoxyl
+contraindication|عندي حساسية من البنسلين واش Augmentin مسموح
+contraindication|واش Lexomil ممنوع على الشيوخ
+contraindication|who must avoid taking Lasilix
+contraindication|واش Tahor خطير على الكبد
+dosage|شحال من حبة ناخد من Augmentin فالنهار
+dosage|كل شحال ساعة نشرب Doliprane
+dosage|شحال نعطي ل بنتي ديال Efferalgan وهي عندها 5 سنين
+dosage|fatni nakhod Metformine lbare7 chno ndir
+dosage|chhal men 7ba dial Spasfon nakhod
+dosage|wach 2 dial Doliprane f nafs lwa9t 3adi
+dosage|combien de Doliprane par jour au maximum
+dosage|j'ai oublié de prendre mon Kardegic ce matin
+dosage|combien de gouttes de Ventoline
+dosage|how many Nurofen can I take per day
+dosage|I missed my Zithromax dose what do I do
+dosage|what is the max dose of paracetamol for adults
+dosage|واش 1000 ديال Doliprane بزاف
+dosage|شحال من ملعقة ديال Smecta للطفل
+dosage|شحال من مرة فالنهار ناخد Lasilix
+dosage|wach nakhod Aerius sba7 wla l3chiya
+dosage|ch7al men nhar nkml Clamoxyl
+dosage|quelle dose de Doliprane pour un bébé de 8 kg
+dosage|posologie du Voltarène en comprimé
+dosage|dose of Augmentin for a 10 year old
+dosage|واش نزيد الجرعة ديال Xanax
+dosage|ghadi nakhod 2 comprimés dial Humex wach kafi
+dosage|شحال خاصني ناخد من Glucophage باش يخدم
+dosage|est-ce que je prends Mopral avant ou après le repas
+dosage|should I take Levothyrox on an empty stomach
+dosage|how often can I take Strepsils
+dosage|شحال من كيس ديال Smecta فالنهار
+dosage|can I double my Aspegic dose today
+dosage|شحال من جرعة قدرت ننسى ونكمل عادي
+dosage|واش نقدر ناخد Tahor مرتين فالنهار
+side_effects|شنو الأعراض الجانبية ديال Augmentin
+side_effects|واش Voltarène كيسبب مشاكل فالمعدة
+side_effects|واش Xanax كيخلي الواحد ينعس
+side_effects|بعد ما بديت Glucophage وليت كنحس بالغثيان واش عادي
+side_effects|j'ai des maux de tête depuis que je prends Tahor
+side_effects|Zyrtec rend somnolent ?
+side_effects|effets indésirables du Plavix
+side_effects|est-ce que Mopral donne des diarrhées
+side_effects|does Lasilix cause dizziness
+side_effects|what are the side effects of Zithromax
+side_effects|I started Levothyrox and feel shaky is that normal
+side_effects|can ibuprofen hurt the stomach
+side_effects|Aerius kay3ti noum ?
+side_effects|wach Ventoline kaydir khfa9an
+side_effects|ach homa l3awarid dial Doliprane
+side_effects|b3d Clamoxyl dkhlat lia sda3 w ghatayan
+side_effects|Nurofen kaydr 3la lma3da ?
+side_effects|wach Metformine kayn9as lchhiya
+side_effects|واش الكورتيزون كيخلي الواحد يسمن
+side_effects|واش Spasfon كيسبب الإمساك
+side_effects|الأنسولين واش كيدير نقصان ف السكر
+side_effects|واش Kardegic كيسبب النزيف ديال الأنف
+side_effects|بدا كيجيني حكان من ملي بديت Augmentin
+side_effects|واش Humex كيسبب الأرق
+side_effects|quels sont les risques du Lexomil à long terme
+side_effects|Voltarène abîme-t-il le foie ?
+side_effects|could Xanax affect my memory
+side_effects|does Strepsils cause mouth irritation
+side_effects|b3d ma khditt Smecta 7ssit b ghatayan
+side_effects|wach Solupred kayzid f lwazn
+alternative|شنو نخدم عوض Doliprane
+alternative|واش كاين شي جنريك ديال Augmentin
+alternative|بغيت شي دوا بحال Voltarène ولكن رخص
+alternative|Spasfon ما لقيتوش فالصيدلية شنو نشري
+alternative|wach kayn chi 3iwad l Ventoline
+alternative|chno nakhod blast Smecta
+alternative|3ndkom chi 7aja b7al Efferalgan w arkhs
+alternative|Mopral makaynch chno nbdl bih
+alternative|Zyrtec ghali bghit bdil
+alternative|wach cetirizine howa nafs Zyrtec
+alternative|par quoi remplacer Nurofen
+alternative|y a-t-il un générique du Plavix
+alternative|Doliprane en rupture que prendre à la place
+alternative|un équivalent moins cher du Gaviscon ?
+alternative|cheaper alternative to Lexomil
+alternative|what can I take instead of Aerius
+alternative|is there a generic of Tahor
+alternative|Xanax unavailable any substitute
+alternative|واش Clamoxyl كيتعوض ب Augmentin
+alternative|شنو البديل المغربي ديال Lasilix
+alternative|عندكم شي حاجة بلاصة Kardegic
+alternative|واش كاين شي دوا كيعوض Levothyrox
+alternative|b3d ma ma lqitch Humex chno ndir blastou
+alternative|kayn generique dial Glucophage
+alternative|wach n9der nbdl Aspegic b Kardegic
+alternative|quel est l'équivalent marocain du Zithromax
+alternative|what is equivalent to Solupred
+alternative|Strepsils is expensive what else can I use
+alternative|واش كاين نفس المادة الفعالة ديال Voltarène ولكن أرخص
+alternative|wach Metformine generique kayn f pharmacie
+drug_info|شنو هو Augmentin
+drug_info|Doliprane لأش كيتعطى
+drug_info|واش Spasfon مضاد للتقلصات
+drug_info|Smecta دوا ديال شنو
+drug_info|شنو المادة الفعالة ف Efferalgan
+drug_info|واش Clamoxyl مضاد حيوي
+drug_info|واش Nurofen كيتباع بلا وصفة
+drug_info|Voltarène gel ولا comprimé
+drug_info|chno howa Mopral
+drug_info|Aerius dwa dial chno
+drug_info|Kardegic kayt3ti 3la ach
+drug_info|wach Zithromax antibiotique
+drug_info|chno kayn f Humex
+drug_info|à quoi sert le Lexomil
+drug_info|Plavix c'est un anticoagulant ?
+drug_info|quelle est la substance active du Tahor
+drug_info|Levothyrox s'achète sans ordonnance ?
+drug_info|Glucophage c'est quoi comme médicament
+drug_info|what is Zyrtec used for
+drug_info|is Lasilix a diuretic
+drug_info|what class of drug is Xanax
+drug_info|what is the active ingredient in Strepsils
+drug_info|Ventoline spray wla sirop
+drug_info|كيفاش خدام Gaviscon فالمعدة
+drug_info|شنو كيعالج Solupred
+drug_info|واش Aspegic كيتباع بالوصفة
+drug_info|Strepsils pastille wla sirop ?
+drug_info|Dafalgan chno howa b dabt
+drug_info|ach homa les indications dial Metformine
+drug_info|how does Mopral work
+emergency|عندي ألم فظيع فصدري ومعرفتش نتنفس
+emergency|bnti ma bqatch kat3tini jawab w 3inha mghmdin
+emergency|ولدي سقط ما بقاش كيتحرك
+emergency|mama tghtat b l7lib w tkhnak
+emergency|kan7ss b dik f sder w dra3i kayw3rni
+emergency|ma9drach ndkhel nafas w lwn dyali tbddl
+emergency|wldi khda 5 comprimés dial Doliprane b ghalat
+emergency|شربت علبة كاملة ديال Xanax ودابا كنحس بالنعاس القوي
+emergency|جدتي خدات بزاف ديال Kardegic وبدا كيجيها الدم من الأنف بزاف
+emergency|bba mghma 3lih mn lbare7 w ma kayfi9ch
+emergency|j'ai du mal à respirer et mon coeur bat très vite
+emergency|ma fille s'est étouffée avec une cacahuète
+emergency|il a pris toute la boîte de Lexomil
+emergency|elle ne respire plus normalement
+emergency|je saigne beaucoup après une chute
+emergency|my husband has crushing chest pain
+emergency|she can't breathe after the injection
+emergency|he swallowed a handful of Doliprane tablets
+emergency|my daughter fainted and isn't responding
+emergency|I think I'm having an allergic reaction my throat is closing
+emergency|there's blood everywhere and it won't stop
+emergency|عندي أفكار باش نأذي راسي
+emergency|بغيت نموت وما بقا عندي أمل
+emergency|ولدي عندو حرارة بزاف وبدا كيتشنج
+emergency|كنحس بتنميل فالدراع وضغط فصدري
+emergency|bghit nsali m3a nafsi
+emergency|wldi shrb dwa dial l7arara kamel w bda kaytqay
+emergency|عندي ضيق ف التنفس بزاف وما قادرش نهضر
+emergency|mon mari est tombé inconscient
+emergency|my mother is not breathing
+symptoms_query|شنو نديرو ملي كيجيني الصداع كل صباح
+symptoms_query|كيفاش نتخلص من الحكة فالجلد
+symptoms_query|عندي سعال من أسبوع شنو السبب
+symptoms_query|كيفاش نعالج الزكام بالأعشاب
+symptoms_query|واش الحموضة كتجي من التوتر
+symptoms_query|كنحس بتعب دايم شنو نديرو
+symptoms_query|شنو الأكل اللي مزيان لمرضى السكر
+symptoms_query|كيفاش نخفض الضغط بلا دوا
+symptoms_query|ولدي كيسعل فالليل شنو نديرو
+symptoms_query|شنو علامات نقص الحديد
+symptoms_query|kifach n9der nnaam mzyan
+symptoms_query|3ndi so3al mn jouj iyam chno ndir
+symptoms_query|kifach nrb7 lwazn b sa7a
+symptoms_query|chno homa a3rad l'anémie
+symptoms_query|wldi 3ndo skhana khfifa chno ndir
+symptoms_query|mrati 7amla w 3ndha ghatayan
+symptoms_query|j'ai souvent mal au dos que faire
+symptoms_query|comment calmer une toux sèche
+symptoms_query|quels aliments éviter avec un reflux
+symptoms_query|mon bébé a les fesses rouges que faire
+symptoms_query|comment faire baisser la fièvre d'un enfant
+symptoms_query|how to stop hiccups
+symptoms_query|why do I get headaches every afternoon
+symptoms_query|how can I lower my cholesterol naturally
+symptoms_query|what causes constant tiredness
+symptoms_query|is it normal to have mild stomach pain after eating
+symptoms_query|how much exercise should I do per week
+symptoms_query|كيفاش نتفادى الإمساك
+symptoms_query|شنو أسباب الدوخة ملي كنوقف بسرعة
+symptoms_query|واش القهوة كتسبب الحموضة
+symptoms_query|كيفاش نعالج الجروح الصغيرة فالدار
+out_of_scope|شحال الساعة دابا فباريس
+out_of_scope|فين نقدر نشري بيليه الطيارة
+out_of_scope|كيفاش نصاوب كلمة سر قوية
+out_of_scope|شكون هو أحسن لاعب فالعالم
+out_of_scope|شنو الطقس غدا فطنجة
+out_of_scope|بغيت وصفة ديال الحريرة
+out_of_scope|كيفاش نعمر الفورمة ديال الضرائب
+out_of_scope|ch7al kaysswa lbenzin lyoum
+out_of_scope|kifach nbdl lmot de passe dyal facebook
+out_of_scope|chno a7ssan film dyal had sana
+out_of_scope|fin kayn a9reb stade
+out_of_scope|kifach nt3llm n9ra l'espagnol
+out_of_scope|bghit n3rf chno kayn f lmatch lyoum
+out_of_scope|quelle est la capitale de l'Australie
+out_of_scope|comment installer WhatsApp sur mon PC
+out_of_scope|peux-tu m'écrire un poème sur la mer
+out_of_scope|donne-moi une recette de tajine
+out_of_scope|combien coûte un loyer à Casablanca
+out_of_scope|quel est le meilleur laptop pour étudier
+out_of_scope|who is the president of France
+out_of_scope|write me a poem about the sea
+out_of_scope|how do I install Python
+out_of_scope|what's the best phone under 3000 dirhams
+out_of_scope|translate good morning to Arabic
+out_of_scope|what's your favorite color
+out_of_scope|merci beaucoup bye
+out_of_scope|شكرا ليك بزاف
+out_of_scope|مرحبا شنو أخبارك
+out_of_scope|واش تقدر تعاونني فالبرمجة
+out_of_scope|شكون صاوب الأنترنيت
